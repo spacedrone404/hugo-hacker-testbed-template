@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Keyboard on Hugo Hacker Theme</title>
+    <link>/tags/keyboard/</link>
+    <description>Recent content in Keyboard on Hugo Hacker Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 25 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/keyboard/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HOW TO PRANK YOUR COLLEAGUE OR FRIEND WITH A PROFESSIONAL KEYBOARD FILTER</title>
+      <link>/news/how-to-prank-your-colleague-or-friend-with-a-professional-keyboard-filter/</link>
+      <pubDate>Wed, 25 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>/news/how-to-prank-your-colleague-or-friend-with-a-professional-keyboard-filter/</guid>
+      <description>So you want to do something evil or make a present for the April&amp;rsquo;s Fool Day to your surrounding. Today we&amp;rsquo;re going to use the professional keyboard application [FilterKeys Setter] in its meanest form, will set keyboard filters to skip keystrokes, but only if the person starts typing at a faster rate.&#xA;I find out that the easiest way is to set Ignore Under parameter somewhere around 60ms, so it will be not so obvious in the beginning for the end user, that key strokes are skipping.</description>
+    </item>
+    <item>
+      <title>ESSENTIAL VSCODE SHORTCUTS TO SPEED UP YOUR WORKFLOW DRAMATICALLY</title>
+      <link>/news/essential-vs-code-shortcuts-to-speed-up-your-workflow-dramatically/</link>
+      <pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>/news/essential-vs-code-shortcuts-to-speed-up-your-workflow-dramatically/</guid>
+      <description>UPDATED ON: 2024-04-05&#xA;Here is a small list of mandatory keystrokes, which significantly speed up working process!&#xA;NOTE! ++[KEY] ► means that you must release previously pressed keys upon pressing it&#xA;NAVIGATION&#xA;[CTRL]+[SHIFT]+[N] ► new editor instance&#xA;[CTRL]+[K]+[CTRL]+[O] ► open folder&#xA;[CTRL]+[K]++[F] ► close folder&#xA;[ALT]+[L]+[ALT]+[O] ► open in browser&#xA;[CTRL]+[W] ► close current tab&#xA;[CTRL]+[K]++[W] ► close all tabs&#xA;[ALT]+[1]/[2]/[3] ► fast-switch to diffrenet tabs&#xA;[CTRL]+[1]/[2] ► fast-switch between panels</description>
+    </item>
+  </channel>
+</rss>

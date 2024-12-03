@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rant on Hugo Hacker Theme</title>
+    <link>/categories/rant/</link>
+    <description>Recent content in Rant on Hugo Hacker Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 02 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/categories/rant/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A QUICK NOTE ON THE RYZEN 7700 ADOPTION PROCESS</title>
+      <link>/news/a-quick-note-on-the-ryzen-7700-adoption-process/</link>
+      <pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>/news/a-quick-note-on-the-ryzen-7700-adoption-process/</guid>
+      <description>Initially, I decided to install Windows Server 2008 R2, attracted by the opportunity to have a server-class operating system with increased I/O throughput in the works. But almost immediately i ran into compatibility problems [no surprise here] with my existing software. Some programs refuse to run because of artificial restrictions [you know licensing mambo-jambo stuff], some of which depend on components that are not present in Windows Server. It&amp;rsquo;s sort of possible to work, but you almost always run into little glitches here and there, even after converting it to a [workstation].</description>
+    </item>
+    <item>
+      <title>HOW TO EXPORT FIREFOX BOOKMARKS AND OPEN LOCALLY PLACED HTML FILES ON ANDROID</title>
+      <link>/news/how-to-export-firefox-bookmarks-and-open-locally-placed-html-files-on-android/</link>
+      <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>/news/how-to-export-firefox-bookmarks-and-open-locally-placed-html-files-on-android/</guid>
+      <description>You might think that it is kinda ridiculous title, but read on to find out.&#xA;First of all you have to understand that i&amp;rsquo;m not going to share my personal bookmarks with some ugly copro that cloaks itself under the umbrella of free software ideas and use their lame anti-private sync. And i&amp;rsquo;m certainly not going to use any web service provided by these companies in any case.&#xA;Of course we won&amp;rsquo;t skip that generic rant part about how dumb project managers are for not implementing essential features like bookmark export or the ability to open local HTML files in 2024.</description>
+    </item>
+    <item>
+      <title>HOW TO STAY SAFE WHEN USING OB-SOUL-EEE-TEE WINDOWS 7 IN 2023?</title>
+      <link>/news/how-to-stay-safe-when-using-ob-soul-eee-tee-windows-7-in-2023-/</link>
+      <pubDate>Wed, 02 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>/news/how-to-stay-safe-when-using-ob-soul-eee-tee-windows-7-in-2023-/</guid>
+      <description>I often get asked regarding Windows 7 safety especially in 2023.&#xA;&amp;#34;Is it safe to use such old operating system?&amp;#34; &amp;#34;What about security?&amp;#34; &amp;#34;How about modern viruses?&amp;#34;&#xD;.... &amp;hellip;. and many other similar questions.&#xA;Funny thing that people who are asking about security don&amp;rsquo;t give a damn about privacy. Yeah, that&amp;rsquo;s quite different definitions for sure, but from my point of view they always come together hand in hand.&#xA;The main and the most important security police officer is your head.</description>
+    </item>
+    <item>
+      <title>NEW EPYC 256 THREAD CPU FINALLY REACH WINDOWS 7 CORE COUNT LIMITATION</title>
+      <link>/news/256-thread-epyc-cpu-finally-reach-windows-7-core-count-limitation/</link>
+      <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/news/256-thread-epyc-cpu-finally-reach-windows-7-core-count-limitation/</guid>
+      <description>Most of you already know how AMD substitute in terms of cores/threads count intel&amp;rsquo;s pathetic&amp;rsquo;n&amp;rsquo;degenerative CPU evolution into revolution. Drastic changes were brought by [Ryzen] CPUs in consumer market in late 2017. [Threadripper] and [Epyc] lines were introduced later on [for workstation and server market respectively].&#xA;► [128 core / 256 thread Epyc Bergamo CPU]&#xA;It would be nice to see 256 threads in Windows 7 task manager, but i don&amp;rsquo;t think that it is possible due to lack of drivers.</description>
+    </item>
+    <item>
+      <title>64-CORES/128-THREADS THREADRIPPER 3995WX WORKSTATION GRADE CPU CONFIRMED TO WORK IN WINDOWS 7</title>
+      <link>/news/64-core-128-thread-threadripper-3995wx-confirmed-to-work-in-windows-7/</link>
+      <pubDate>Wed, 30 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>/news/64-core-128-thread-threadripper-3995wx-confirmed-to-work-in-windows-7/</guid>
+      <description>Well known Chinese driver modder [Canonkong] confirmed that [64-cores/128-threads Threadripper 3995WX] based upon sWRX8 chipset works flawlessly in Windows 7 environment. Considering the news it looks like that more recent [5995WX] will also work without any issues. So, we have plenty of headroom in terms of system performance. As for me, i have no need to switch to &amp;ldquo;recent operating systems&amp;rdquo; like Windows 10/11.&#xA;Here is brief [confirmation] from the WinRaid forum:</description>
+    </item>
+    <item>
+      <title>HOW TO DEPLATFORM YOURSELF, ESCAPE PROFILE BUBBLE AND STOP PERSONAL DATA LEAKAGE</title>
+      <link>/news/how-to-deplatform-yourself-escape-profile-bubble-and-stop-persoanl-data-leakage/</link>
+      <pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>/news/how-to-deplatform-yourself-escape-profile-bubble-and-stop-persoanl-data-leakage/</guid>
+      <description>Stop using mainstream operating systems like Windows 11/10/8.1, modern Linux, like Ubuntu or modern MacOS versions. On mobile Android 14/13/12/11/10/9/8.1 are prohibited because they use neural networks to profile your device and dial back to “home” to dump your personal data and preferences. iOS from very beginning was very phony platform.&#xA;My personal choices are Windows 7 for desktop and Android 8.0 for mobile. These two cover my digital needs fully, no restrictions whatsoever.</description>
+    </item>
+    <item>
+      <title>44 THREADS XEON WORKSTATION AND 32 THREADS OPTERON SERVER RETRO BUILDS</title>
+      <link>/news/44-threads-xeon-workstation-and-32-threads-opteron-server-retro-builds/</link>
+      <pubDate>Sun, 14 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>/news/44-threads-xeon-workstation-and-32-threads-opteron-server-retro-builds/</guid>
+      <description>&lt;br&gt;&#xD;&#xA;&lt;p&gt;As you already know i fed up using &lt;a href=&#34;https://trackerninja.codeberg.page/post/my-daily-driver-rig-based-upon-ryzen-5950x-running-windows-7&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[modern Ryzen/Radeon hardware]&lt;/a&gt; and decided to go a bit retro. Cheap Chinese clone mobos and second-hand high-performance cpu&amp;rsquo;s of previous generations induced me to rebuild my workstation and also fool around with Opteron-based server.&#xA;&lt;br&gt;&#xA;Here is &lt;a href=&#34;https://docs.google.com/spreadsheets/d/1qW1QraucVBm6pHzoD8yUvza9RhgzjQEJ0p78FHJifeY&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[very detailed spreadsheet comparision]&lt;/a&gt; of almost all available Chinese x79/x89/x99 boards on the market.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>FENNEC F-DROID AS A REPLACEMENT FOR AGING ICECAT 68 ESR [ANDROID]</title>
+      <link>/news/fennec-f-droid-as-a-replacement-for-aging-icecat-68-esr/</link>
+      <pubDate>Tue, 19 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>/news/fennec-f-droid-as-a-replacement-for-aging-icecat-68-esr/</guid>
+      <description>UPDATED ON: 2023-02-20 I recommend to replace Fennec F-Droid with [Mull Browser] due to the fact that is COMPLETELY free from telemetry. In contrast to Fennec Mull browser do not trigger any mozilla or google connections, so take a note. And for God&amp;rsquo;s sake do not use plain Firefox, it is almost like chrome now!&#xA;As my main web surfer IceCat begin to showing it’s age and don’t have any new versions apart from &amp;ldquo;super-new&amp;rdquo; 68.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Exif on Hugo Hacker Theme</title>
+    <link>/tags/exif/</link>
+    <description>Recent content in Exif on Hugo Hacker Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 20 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/exif/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EXIFTOOL ▀ HOW TO FAST TAG GRAPHICS FILES WITH PERSONAL METADATA</title>
+      <link>/news/exif-tool-how-to-fast-tag-graphics-files-with-personal-meta-data/</link>
+      <pubDate>Sun, 20 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>/news/exif-tool-how-to-fast-tag-graphics-files-with-personal-meta-data/</guid>
+      <description>&#xA;[Exiftool] is a convenient command line tool, which allows to change meta data of media files, like photos and pictures. You can download it [here].&#xA;CLEARING IPTC/EXIF METADATA IN ALL EXISTING FILES&#xA;c:\exiftool.exe -overwrite_original -all= C:\PATH-TO-YOUR_FOLDER&#xD;exit CHANGING/OVERWRITING TAG METADATA IN APPOINTED FOLDER&#xA;c:\exiftool.exe -overwrite_original -XMP-iptcCore:CreatorWorkEmail=&amp;#34;YOUR EMAIL ADDRESS&amp;#34; -XMP-iptcCore:CreatorWorkURL=&amp;#34;YOUR WEBSITE&amp;#34; -artist=&amp;#34;YOUR NAME&amp;#34; -copyright=&amp;#34;YOUR COPYRIGHT&amp;#34; -Credit=&amp;#34;YOUR NAME&amp;#34; -Source=&amp;#34;YOUR NAME&amp;#34; -sep &amp;#34;, &amp;#34; -keywords=&amp;#34;background, backdrop, postcard, design, element, wallpaper, dramatic, concept, decoration, scene, vivid, vibrant, travel, trip&amp;#34; C:\FOLDER-TO-PROCESS&#xD;exit Imagery by spacedrone808 @Adobe Imagery by spacedrone808 @Freepik </description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Audio on Hugo Hacker Theme</title>
+    <link>/tags/audio/</link>
+    <description>Recent content in Audio on Hugo Hacker Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 30 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/audio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HOW TO SETUP REMOTE ACCESS TO FOOBAR 2000 MUSIC PLAYER</title>
+      <link>/news/how-to-setup-remote-access-to-foobar-2000-music-player/</link>
+      <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>/news/how-to-setup-remote-access-to-foobar-2000-music-player/</guid>
+      <description>Most of you have favorite PC audio player of their own, in my case it is [Foobar2000]. In Android 6 times there was a wonderful software called [Foobar 2000 Controller]. It was made to control audio player remotely from your smartphone in a convenient way. For some reason i recall it today and decided to record installing process for future use.&#xA;Guys from [Hydrogen Audio] forum helped me out in some questions and pointed me to the right direction.</description>
+    </item>
+    <item>
+      <title>HOW TO TRANSCRIBE AUDIO SPEECH INTO TEXT USING PYTHON</title>
+      <link>/news/how-to-transcribe-audio-into-text-using-python/</link>
+      <pubDate>Wed, 15 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>/news/how-to-transcribe-audio-into-text-using-python/</guid>
+      <description>Recently i was asked for a simple &amp;amp; free way of transcribing audio speech into plain text. Problem was solved via Python library called [Vosk]. It is a speech recognition toolkit working in offline environment.&#xA;To make things happen do the following:&#xA;[Install vosk] pip install vosk [Download speech model] of required language, larger libraries bring just marginal improvement over the smaller ones despite the fact that they are over 40 times bigger in a size.</description>
+    </item>
+  </channel>
+</rss>

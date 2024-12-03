@@ -1,0 +1,79 @@
+{{ define "main" }}
+<main class="main" role="main">
+
+	<article class="post">
+		<header class="post__header">
+			<h1 class="post__title">{{ .Title }}</h1>
+			{{- with .Params.lead }}
+			<p class="post__lead">{{ . }}</p>
+			{{- end }}
+			{{ with partial "post_meta.html" . -}}
+			<div class="post__meta meta">{{ . }}</div>
+			{{- end }}
+		</header>
+		{{partial "post_tags.html" . }}
+		{{ partial "post_thumbnail.html" (dict "class" "post" "page" .) }}
+		{{- partial "post_toc.html" . -}}
+		<div class="content post__content clearfix">
+			{{ .Content }}
+		</div>
+		{{- if .Params.tags }}
+		<!--                                             # bottom tags
+	      <footer class="post__footer">
+	      {{ partial "post_tags.html" . }}
+	      </footer>
+-->
+
+		{{- end }}
+
+	</article>
+
+</main>
+{{ partial "authorbox.html" . }}
+
+{{ partial "comments.html" . }}
+
+<div class="bottom-buttons-links">
+	<div style="text-align:left;"><b><a href="/"> ≡ BACK TO NEWS </a></b></div>
+	<div style="text-align:left;"><b><a href="#top"> ↑ BACK 2 TOP </a></b></div>
+</div>
+
+<button onclick="topFunction()" id="scrollTop" title="BACK 2 TOP">↑</button>
+
+<script>
+
+	window.topFunction = topFunction;
+
+	let lastScrollTop = 0;
+	let scrollTopBtn = document.getElementById("scrollTop");
+
+	window.onscroll = function () {
+		scrollFunction();
+	};
+	function scrollFunction() {
+		let currentScroll = window.scrollY || document.documentElement.scrollTop;
+		if (currentScroll > 512) {
+			if (!scrollTopBtn.classList.contains("show")) {
+				scrollTopBtn.classList.remove("hide");
+				scrollTopBtn.classList.add("show");
+			}
+		} else if (currentScroll < lastScrollTop) {
+			if (scrollTopBtn.classList.contains("show")) {
+				scrollTopBtn.classList.remove("show");
+				scrollTopBtn.classList.add("hide");
+			}
+		}
+		lastScrollTop = currentScroll <= 0 ? 0 : currentScroll;
+	}
+
+	function topFunction() {
+		document.body.scrollTop = 0;
+		document.documentElement.scrollTop = 0;
+	}
+
+</script>
+
+
+<script type="module" src="/js/lazy-load.js"></script>
+
+{{ end }}

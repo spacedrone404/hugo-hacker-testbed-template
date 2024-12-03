@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>EOL on Hugo Hacker Theme</title>
+    <link>/tags/eol/</link>
+    <description>Recent content in EOL on Hugo Hacker Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 02 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/eol/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HOW TO STAY SAFE WHEN USING OB-SOUL-EEE-TEE WINDOWS 7 IN 2023?</title>
+      <link>/news/how-to-stay-safe-when-using-ob-soul-eee-tee-windows-7-in-2023-/</link>
+      <pubDate>Wed, 02 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>/news/how-to-stay-safe-when-using-ob-soul-eee-tee-windows-7-in-2023-/</guid>
+      <description>I often get asked regarding Windows 7 safety especially in 2023.&#xA;&amp;#34;Is it safe to use such old operating system?&amp;#34; &amp;#34;What about security?&amp;#34; &amp;#34;How about modern viruses?&amp;#34;&#xD;.... &amp;hellip;. and many other similar questions.&#xA;Funny thing that people who are asking about security don&amp;rsquo;t give a damn about privacy. Yeah, that&amp;rsquo;s quite different definitions for sure, but from my point of view they always come together hand in hand.&#xA;The main and the most important security police officer is your head.</description>
+    </item>
+    <item>
+      <title>HOW TO SET PROPER COLOR FOR CURSOR AND COMMENTS IN VSCODE EDITOR</title>
+      <link>/news/how-to-set-proper-cursor-color-in-vscode/</link>
+      <pubDate>Wed, 28 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>/news/how-to-set-proper-cursor-color-in-vscode/</guid>
+      <description>UPDATED ON: 2023-12-02&#xA;The main reason i&amp;rsquo;ve decided to write this note is indistinct default color mappings and inability to solve issue simply using GUI of software.&#xA;In main configuration file:&#xA;settings.json add following lines:&#xA;&amp;#34;workbench.colorCustomizations&amp;#34;: {&#xD;&amp;#34;editorCursor.foreground&amp;#34;: &amp;#34;#ff0000&amp;#34;,&#xD;&amp;#34;terminalCursor.foreground&amp;#34;: &amp;#34;#02ED3D&amp;#34;,&#xD;&amp;#34;editorLineNumber.activeForeground&amp;#34;: &amp;#34;#ff0000&amp;#34;,&#xD;&amp;#34;editor.lineHighlightBackground&amp;#34;: &amp;#34;#016119&amp;#34;,&#xD;&amp;#34;editor.lineHighlightBorder&amp;#34;: &amp;#34;#02ED3D&amp;#34;,&#xD;&amp;#34;terminal.foreground&amp;#34;: &amp;#34;#02ed3d&amp;#34; }, To set custom color for GREY comments drop in these lines:&#xA;&amp;#34;editor.tokenColorCustomizations&amp;#34;: {&#xD;&amp;#34;conmments&amp;#34;: &amp;#34;#ff006f&amp;#34;&#xD;} To fast access configuration file press:</description>
+    </item>
+    <item>
+      <title>HOW TO RUN LATEST VS CODE IN WINDOWS 7 X64</title>
+      <link>/news/how-to-run-latest-vs-code-in-windows-7-x64/</link>
+      <pubDate>Sat, 24 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>/news/how-to-run-latest-vs-code-in-windows-7-x64/</guid>
+      <description>UPDATED ON: 2024-07-05 v1.81.1 is a more recent version, which can be executed without any efforts v1.89 is a hacked [FINAL version] for Windows 7 x64 So, Windows 7 users are pretty safe at this point despite artificial restrictions of big corps.&#xA;Usually i&amp;rsquo;m not feeling so delightful regarding microsoft modern programs, but this one is pretty good. And of course they tried to artificially cripple it under &amp;ldquo;obsolete&amp;rdquo; Windows 7.</description>
+    </item>
+    <item>
+      <title>HOW TO RUN NODE.JS 18.18 LTS ON OBSOLETE WINDOWS 7</title>
+      <link>/news/how-to-run-latest-node-js-on-obsolete-windows-7/</link>
+      <pubDate>Wed, 14 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>/news/how-to-run-latest-node-js-on-obsolete-windows-7/</guid>
+      <description>UPDATED ON: 2024-08-29&#xA;Node.js dropped Windows 7 &amp;ldquo;support&amp;rdquo; rigth after [version number 13].What a load of sh#t. Today i&amp;rsquo;ll tell you how to overcome this nonsense and run latest LTS version [Node.JS 18.x] without any problems. More newer versions may work also. I&amp;rsquo;ll leave you some room for experiments. Recently i found excellent already [patched installer of NodeJS 18]&#xA;First of all you need to download zipped version of software, not msi one.</description>
+    </item>
+    <item>
+      <title>HOW TO RUN OBS STUDIO V29 IN WINDOWS 7</title>
+      <link>/news/how-to-run-obs-studio-29-in-windows-7/</link>
+      <pubDate>Fri, 17 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>/news/how-to-run-obs-studio-29-in-windows-7/</guid>
+      <description>I&amp;rsquo;ll keep post updated if any changes happen.&#xA;Recently last officially supported version was [27.4.2]. But from now on we can use actual version of software.&#xA;Here is small instruction list on how to make things rollin&amp;rsquo; under mighty Windows 7:&#xA;Obtain hacked [QT 6.3.1 DLLs for Windows 7] ||| [Mirror] [QT6 is not officially supported] Download [CFF Explorer][direct link] for basic resource hackery Obviously grab latest zipped archive [OBS Studio 29.</description>
+    </item>
+    <item>
+      <title>CANONKONG&#39;S WINDOWS 7 USB 3 DRIVER FOR MODERN AMD PLATFORMS HAS BEEN UPDATED!</title>
+      <link>/news/canonkong-windows-7-usb-3-0-driver-for-modern-platforms-has-been-updated/</link>
+      <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/news/canonkong-windows-7-usb-3-0-driver-for-modern-platforms-has-been-updated/</guid>
+      <description>UPDATED ON: 2024-09-20 I will surely return to post to bring update on FINAL version of driver&#xA;[Canonkong] brings [ANOTHER BIG UPDATE] to the marvellous modern USB3 driver for [Windows 7].&#xA;Latest version: 2024-09-13 Supported chipsets: X370, X399, B450, X470, TRX40, A520, B550, PRO565, X570, B560, X670, WRX80 Recommended motherboards: MSI, Gigabyte Not recommended: Asus [works, but with some restrictions] Not working at all: Asrock&#xA;► **[USB3 DRIVER MOD] ► **[ASUS VERSION] ► **[ACPI.</description>
+    </item>
+  </channel>
+</rss>

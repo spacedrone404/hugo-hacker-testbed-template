@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SVG on Hugo Hacker Theme</title>
+    <link>/tags/svg/</link>
+    <description>Recent content in SVG on Hugo Hacker Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 03 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/svg/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HOW TO ENABLE SVG PREVIEW IN WINDOWS EXPLORER ON WINDOWS 7</title>
+      <link>/news/how-to-enable-svg-preview-in-windows-explorer-on-windows-7/</link>
+      <pubDate>Fri, 03 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>/news/how-to-enable-svg-preview-in-windows-explorer-on-windows-7/</guid>
+      <description>So, you want to be a hip and would like to have the feature of SVG preview in file explorer like in fancy windows 11 of friend of yours? It is surely possible, even on such old crone like Windows 7!&#xA;[SVG See] is an excellent application, which bring such functionality to our crony operating system.&#xA;If you are for some reason don&amp;rsquo;t observe SVG previews in explorer there are a couple of things that you could try to fix things up:</description>
+    </item>
+  </channel>
+</rss>

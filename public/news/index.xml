@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on Hugo Hacker Theme</title>
+    <link>/news/</link>
+    <description>Recent content in News on Hugo Hacker Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 30 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HOW TO SETUP REMOTE ACCESS TO FOOBAR 2000 MUSIC PLAYER</title>
+      <link>/news/how-to-setup-remote-access-to-foobar-2000-music-player/</link>
+      <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>/news/how-to-setup-remote-access-to-foobar-2000-music-player/</guid>
+      <description>Most of you have favorite PC audio player of their own, in my case it is [Foobar2000]. In Android 6 times there was a wonderful software called [Foobar 2000 Controller]. It was made to control audio player remotely from your smartphone in a convenient way. For some reason i recall it today and decided to record installing process for future use.&#xA;Guys from [Hydrogen Audio] forum helped me out in some questions and pointed me to the right direction.</description>
+    </item>
+    <item>
+      <title>1950X / 5950X / 7950X ▀ SUPER MEGA RETROSPECTIVE WINDOWS 7 BENCHMARK</title>
+      <link>/news/1950x-5950x-7950x-super-mega-retrospective-windows-7-benchmark/</link>
+      <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>/news/1950x-5950x-7950x-super-mega-retrospective-windows-7-benchmark/</guid>
+      <description>¶ INTRO WORDS Numbers, numbers, numbers &amp;hellip; i say NUMBERS!!!!&#xA;It&amp;rsquo;s been a while since i ran into the craze of pointless benchmarks. And now I&amp;rsquo;m back with the absolute procrastination stuff. Are you happy with this?&#xA;Take a note that 3DMark 03, 3DMark 05, 3DMark 06, 3DMark Vantage [2007], 3DMark 2011 and 3DMark 2021 are not marked by ▒ sign, showing the fact that these programs lost the soul of demoscene and just providing comparison numbers, nothing else.</description>
+    </item>
+    <item>
+      <title>HOW TO PRANK YOUR COLLEAGUE OR FRIEND WITH A PROFESSIONAL KEYBOARD FILTER</title>
+      <link>/news/how-to-prank-your-colleague-or-friend-with-a-professional-keyboard-filter/</link>
+      <pubDate>Wed, 25 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>/news/how-to-prank-your-colleague-or-friend-with-a-professional-keyboard-filter/</guid>
+      <description>So you want to do something evil or make a present for the April&amp;rsquo;s Fool Day to your surrounding. Today we&amp;rsquo;re going to use the professional keyboard application [FilterKeys Setter] in its meanest form, will set keyboard filters to skip keystrokes, but only if the person starts typing at a faster rate.&#xA;I find out that the easiest way is to set Ignore Under parameter somewhere around 60ms, so it will be not so obvious in the beginning for the end user, that key strokes are skipping.</description>
+    </item>
+    <item>
+      <title>HOW TO TRANSFORM APPALLING GUI OF WINDOWS 10 INTO WINDOWS 7 AWESOMENESS</title>
+      <link>/news/how-to-transform-appalling-gui-of-windows-10-into-windows-7-awesomeness/</link>
+      <pubDate>Thu, 19 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>/news/how-to-transform-appalling-gui-of-windows-10-into-windows-7-awesomeness/</guid>
+      <description>UPDATED ON: 2024-11-12&#xA;Due to the fact that I was forced to use windows 10 at my primary work, I have to accumulate all these software to prevent myself from daily vomiting provoked by original windows 10 diarrhea.&#xA;Ok, kids, you don&amp;rsquo;t like the native looks of Windows 10? So am i! That is why today we transform atrocious Windows 10 interface into clean looking heaven of classic Windows 7.</description>
+    </item>
+    <item>
+      <title>HOW TO TUNE THE DISPLAY OF YOUR SMARTPHONE TO AVOID ANNOYING PWM PROBLEMS</title>
+      <link>/news/how-to-tune-the-display-of-your-smartphone-to-avoid-annoying-pwm-problems/</link>
+      <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>/news/how-to-tune-the-display-of-your-smartphone-to-avoid-annoying-pwm-problems/</guid>
+      <description>In this note, I will describe all the settings you need to tweak to get a 100% flicker-free, eye-friendly result on your smartphone. However, some settings are quite extreme and you don&amp;rsquo;t need to apply all of them, such as the monochrome filter or setting extremely high warm values on the color temperature slider.&#xA;PWM flickering is a &amp;ldquo;feature&amp;rdquo; of most digital displays at relatively low brightness levels that can cause eye strain and headaches.</description>
+    </item>
+    <item>
+      <title>A QUICK NOTE ON THE RYZEN 7700 ADOPTION PROCESS</title>
+      <link>/news/a-quick-note-on-the-ryzen-7700-adoption-process/</link>
+      <pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>/news/a-quick-note-on-the-ryzen-7700-adoption-process/</guid>
+      <description>Initially, I decided to install Windows Server 2008 R2, attracted by the opportunity to have a server-class operating system with increased I/O throughput in the works. But almost immediately i ran into compatibility problems [no surprise here] with my existing software. Some programs refuse to run because of artificial restrictions [you know licensing mambo-jambo stuff], some of which depend on components that are not present in Windows Server. It&amp;rsquo;s sort of possible to work, but you almost always run into little glitches here and there, even after converting it to a [workstation].</description>
+    </item>
+    <item>
+      <title>HOW TO CONFIGURE MULTI SUB-DOMAN WEBSERVER IN DEBIAN LINUX</title>
+      <link>/news/how-to-configure-multi-sub-doman-webserver-in-debian-linux/</link>
+      <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>/news/how-to-configure-multi-sub-doman-webserver-in-debian-linux/</guid>
+      <description>Firsts things first, for better file handling install [Midnight Commander]:&#xA;sudo apt-get install mc Download fresh version of webserver software:&#xA;sudo apt-get install apache2 Locate and edit configuration file:&#xA;/etc/apache2/apache2.conf Note that in some distributions it can named as httpd.conf.&#xA;No file at all? You can create it by:&#xA;touch apache2.conf For relatively easy editing i recommend Nano editor.&#xA;sudo apt-get install nano CTRL+O ► to save file CTRL+X ► exit file Here is an example for locally placed development webserver, containing two sub-domains.</description>
+    </item>
+    <item>
+      <title>CAPSTER CONVENIENT WAY TO EXECUTE THINGS ON WINDOWS 7 STARTUP</title>
+      <link>/news/capster-convenient-way-to-execute-things-on-windows-7-startup/</link>
+      <pubDate>Tue, 20 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>/news/capster-convenient-way-to-execute-things-on-windows-7-startup/</guid>
+      <description>Although I have been using Linux more and more in recent work, Windows 7 remains my main production operating system. And here is an excellent finding for Windows 7 crony named [Capster]. Its main functionality is to launch the specified executable at startup time when the [CAPS LOCK] key is set to ON or OFF. I use Capser to run backup script, that backs up previously selected folders [if i want to].</description>
+    </item>
+    <item>
+      <title>HOW TO IMPORT CUSTOM CERTIFICATE TO CERTIFICATE STORAGE IN DEBIAN LINUX</title>
+      <link>/news/how-to-import-custom-certificate-to-certificate-storage-in-debian-linux/</link>
+      <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>/news/how-to-import-custom-certificate-to-certificate-storage-in-debian-linux/</guid>
+      <description>Say you are trying to install software and receive message from the operating system about untrusted certificate in certificate chain. In such case you need to import certificate of the middle-man organization into the Linux certificate storage to make things happen.&#xA;If for some reason your third-party certificate comes in DER binary format, you should convert it to CRT format:&#xA;openssl x509 -inform DER -in certificate.der -out certificate.crt Copy to storage:</description>
+    </item>
+    <item>
+      <title>HOW TO EXPORT FIREFOX BOOKMARKS AND OPEN LOCALLY PLACED HTML FILES ON ANDROID</title>
+      <link>/news/how-to-export-firefox-bookmarks-and-open-locally-placed-html-files-on-android/</link>
+      <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>/news/how-to-export-firefox-bookmarks-and-open-locally-placed-html-files-on-android/</guid>
+      <description>You might think that it is kinda ridiculous title, but read on to find out.&#xA;First of all you have to understand that i&amp;rsquo;m not going to share my personal bookmarks with some ugly copro that cloaks itself under the umbrella of free software ideas and use their lame anti-private sync. And i&amp;rsquo;m certainly not going to use any web service provided by these companies in any case.&#xA;Of course we won&amp;rsquo;t skip that generic rant part about how dumb project managers are for not implementing essential features like bookmark export or the ability to open local HTML files in 2024.</description>
+    </item>
+    <item>
+      <title>HOW TO COPY FILES FROM ANDROID PHONE TO PC IN AN EASY AND FAST WAY</title>
+      <link>/news/how-to-copy-files-from-android-phone-to-pc-in-an-easy-and-fast-way/</link>
+      <pubDate>Sun, 21 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>/news/how-to-copy-files-from-android-phone-to-pc-in-an-easy-and-fast-way/</guid>
+      <description>First things first. I often need to copy substantial amount of photos from my phone. It can&amp;rsquo;t be done via Windows GUI without millions of mouse clicks or keystrokes. Here you will find a solution on how to do this in a proper way. The key tool for this will be [ADB], developer tools for Android.&#xA;Wishes: command line, batch, no file explorer, no mouse, no clickety-clack.&#xA;Sicking tired of all of these not-so-precise-instructions i&amp;rsquo;ve decided to make my own.</description>
+    </item>
+    <item>
+      <title>ESSENTIAL SHORTCUTS IN FIGMA</title>
+      <link>/news/essential-shortcuts-in-figma/</link>
+      <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>/news/essential-shortcuts-in-figma/</guid>
+      <description>&#xA;Here a list of the most important hotkeys for Figma application.&#xA;[CTRL] + [] ► hide figma gui [CTRL] + [/] ► spotlight for quick commands [CTRL] + [SHIFT] + [E] ► fast export [CTRL] + [D] ► duplicate mockup [V] ► move tool [F] ► create frame [T] ► text tool [CTRL] + [B] ► bold text [CTRL] + [I] ► italic text [CTRL] + [G] ► group text [CTRL] + [A] ► select all [CTRL] + [SHIFT] + [A] ► invert seelction [CTRL] + [C]/[V] ► copy/paste [CTRL] + [R] ► rename [CTRL] + [SHIFT] + [&amp;lt;]/[&amp;gt;] ► fast change font size Imagery by spacedrone808 @Adobe Imagery by spacedrone808 @Freepik </description>
+    </item>
+    <item>
+      <title>HOW TO SETUP CUSTOM FONTS IN WINDOWS 7 CONSOLE</title>
+      <link>/news/how-to-setup-custom-fonts-in-windows-7-console/</link>
+      <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/news/how-to-setup-custom-fonts-in-windows-7-console/</guid>
+      <description>As a hardcore user of [dual-panel orthodox file manager] i always suffered because of sucky look of default console fonts. Native preloaded font list has quite scarce selection, if you ask me. To fix such disappointment you&amp;rsquo;ll need:&#xA;install desired fonts by means of windows control panel copy EXACT FONT NAME fonts section in control panel paste it into registry key into following branch HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Console\TrueTypeFont note that every new subsequent font should be added by a key with added one zero to registry key name reboot computer to apply &amp;amp; enjoy!</description>
+    </item>
+    <item>
+      <title>HOW TO FIX &#34;UNABLE TO RENDER ERROR&#34; 0x80131501 IN VEGAS PRO 21</title>
+      <link>/news/how-to-fix-unable-to-render-error-0x80131501-in-vegas-21/</link>
+      <pubDate>Mon, 27 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>/news/how-to-fix-unable-to-render-error-0x80131501-in-vegas-21/</guid>
+      <description>Vegas video montage software is widely known as pretty glitchy application especially if we are speaking about latest versions. Newest Vegas 21 Pro is no exception. I run into problems almost instantly. Right after i&amp;rsquo;ve decided to render video clip. Upon export attempt application showed me error:&#xA;0x80131501 How typical! To fix things up i just took DLL library [RenderAsDialog.dll, which is responsible for export dialog] from previous Vegas Pro 18 [sub-version 284 to be precise] and substituted original file with above mentioned.</description>
+    </item>
+    <item>
+      <title>HOW TO TRANSCRIBE AUDIO SPEECH INTO TEXT USING PYTHON</title>
+      <link>/news/how-to-transcribe-audio-into-text-using-python/</link>
+      <pubDate>Wed, 15 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>/news/how-to-transcribe-audio-into-text-using-python/</guid>
+      <description>Recently i was asked for a simple &amp;amp; free way of transcribing audio speech into plain text. Problem was solved via Python library called [Vosk]. It is a speech recognition toolkit working in offline environment.&#xA;To make things happen do the following:&#xA;[Install vosk] pip install vosk [Download speech model] of required language, larger libraries bring just marginal improvement over the smaller ones despite the fact that they are over 40 times bigger in a size.</description>
+    </item>
+    <item>
+      <title>HOW TO IMPROVE PERFORMANCE OF WEBSITE</title>
+      <link>/news/how-to-improve-performance-of-website/</link>
+      <pubDate>Sat, 04 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>/news/how-to-improve-performance-of-website/</guid>
+      <description>UPDATED ON: 2023-11-04&#xA;Nothing complex here, at least at this time. Here i&amp;rsquo;ll accumulate performance related information.&#xA;░▒▓ LAZY LOADING OF IMAGES ▓▒░ Just implemented lazy loading at my main index page. Concept is pretty simple you are loading images only when they appearing in the viewport of the browser. All you need to do is just to apply loading=&amp;ldquo;lazy&amp;rdquo; to the classes of loaded images.&#xA;&amp;lt;img loading=&amp;#34;lazy&amp;#34; src=&amp;#34;/img/demo./png&amp;#34; alt=&amp;#34;Picture&amp;#34;&amp;gt; In my case it was like this:</description>
+    </item>
+    <item>
+      <title>HOW TO ENABLE SVG PREVIEW IN WINDOWS EXPLORER ON WINDOWS 7</title>
+      <link>/news/how-to-enable-svg-preview-in-windows-explorer-on-windows-7/</link>
+      <pubDate>Fri, 03 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>/news/how-to-enable-svg-preview-in-windows-explorer-on-windows-7/</guid>
+      <description>So, you want to be a hip and would like to have the feature of SVG preview in file explorer like in fancy windows 11 of friend of yours? It is surely possible, even on such old crone like Windows 7!&#xA;[SVG See] is an excellent application, which bring such functionality to our crony operating system.&#xA;If you are for some reason don&amp;rsquo;t observe SVG previews in explorer there are a couple of things that you could try to fix things up:</description>
+    </item>
+    <item>
+      <title>BUBBA HO-TEP [2002] ▀ HIDDEN MOVIE WITH BRUCE CAMPBELL</title>
+      <link>/news/bubba-ho-tep-2002-hidden-movie-with-bruce-campbell/</link>
+      <pubDate>Sat, 28 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>/news/bubba-ho-tep-2002-hidden-movie-with-bruce-campbell/</guid>
+      <description>&#xA;[Bubba Ho-Tep] is a quite awkward movie, but despite that is worth watching. The main reasons of such conclusion are [Bruce Campbell] and [Brian Tyler]. Bruce is surely known for his [Evil Dead] acting. Brian provided stunning soundtrack, which lifts whole movie to another level.&#xA;OFFICIAL TRAILER&#xA;Imagery by spacedrone808 @Adobe Imagery by spacedrone808 @Freepik </description>
+    </item>
+    <item>
+      <title>HOW TO FIX OUT OF SYNC TIME ON OLD WINDOWS 7 INSTALLATIONS</title>
+      <link>/news/how-to-fix-out-of-sync-time-on-old-windows-7-installations/</link>
+      <pubDate>Sun, 08 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>/news/how-to-fix-out-of-sync-time-on-old-windows-7-installations/</guid>
+      <description>A couple of weeks ago i run into problem related to out-of sync time clock. Tried almost all imaginable solutions, like time service restarting, checking that internet time-sync option is turned on and so on and so forth. Of course to no avail at all. How typical! My Windows 7 installation dates back to early 2019 and i&amp;rsquo;ve plethora of software installed, and more over system is heavily customized so plain reinstall of operating system is not an option in my case.</description>
+    </item>
+    <item>
+      <title>HOW TO EASILY FIX GPS ISSUES ON SONY XZ1 COMPACT SMARTPHONE</title>
+      <link>/news/how-to-easily-fix-gps-issues-on-sony-xz1-compact-smartphone/</link>
+      <pubDate>Thu, 21 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>/news/how-to-easily-fix-gps-issues-on-sony-xz1-compact-smartphone/</guid>
+      <description>As you may know [Sony Xperia XZ1 Compact] is my main web surfing phone on the go. I&amp;rsquo;m fully satisfied with it&amp;rsquo;s capabilities even in 2023. Except one little problem, related to GPS and speed of satellites detection.&#xA;Issue showed up couple of months ago and it seems that i finally found an easy way to fix it. After some investigations i conclude that device has a hardware based problem, and to eliminate it completely you need to open phone casing and pull up antenna so it will have tighter surface touching with in-case metallic plate.</description>
+    </item>
+    <item>
+      <title>HOW TO POWER OFF OR RESTART ANDROID PHONE WITHOUT TOUCHING HARDWARE BUTTONS</title>
+      <link>/news/how-to-power-off-or-restart-android-phone-without-touching-hardware-buttons/</link>
+      <pubDate>Tue, 05 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>/news/how-to-power-off-or-restart-android-phone-without-touching-hardware-buttons/</guid>
+      <description>Say you would like to extend life cycle of your hardware power button and want to turn off/restart your device without touching mechanics. Unfortunately most of smartphones don&amp;rsquo;t offer such functionality out of the box. However there is an easy way to make things rollin&#39;.&#xA;Problem can be solved by installing [Power Menu], very small application. It is a simple tool which just works, do expected thing and moreover contains no bloat at all.</description>
+    </item>
+    <item>
+      <title>ESSENTIAL VSCODE SHORTCUTS TO SPEED UP YOUR WORKFLOW DRAMATICALLY</title>
+      <link>/news/essential-vs-code-shortcuts-to-speed-up-your-workflow-dramatically/</link>
+      <pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>/news/essential-vs-code-shortcuts-to-speed-up-your-workflow-dramatically/</guid>
+      <description>UPDATED ON: 2024-04-05&#xA;Here is a small list of mandatory keystrokes, which significantly speed up working process!&#xA;NOTE! ++[KEY] ► means that you must release previously pressed keys upon pressing it&#xA;NAVIGATION&#xA;[CTRL]+[SHIFT]+[N] ► new editor instance&#xA;[CTRL]+[K]+[CTRL]+[O] ► open folder&#xA;[CTRL]+[K]++[F] ► close folder&#xA;[ALT]+[L]+[ALT]+[O] ► open in browser&#xA;[CTRL]+[W] ► close current tab&#xA;[CTRL]+[K]++[W] ► close all tabs&#xA;[ALT]+[1]/[2]/[3] ► fast-switch to diffrenet tabs&#xA;[CTRL]+[1]/[2] ► fast-switch between panels</description>
+    </item>
+    <item>
+      <title>EVEN MORE CLASSICAL TRACKER MUSIC</title>
+      <link>/news/even-more-classical-tracker-music/</link>
+      <pubDate>Tue, 08 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>/news/even-more-classical-tracker-music/</guid>
+      <description>UPDATED ON: 2023-08-19&#xA;For those of you who are hunger for more classical tracker music and you are not completely satisfied with my [ultimate tracker mod collection] here is a link to a [marvelous catalog] of chiptune and demoscene gems. Design matches aesthetics of early 90s and pleasing to eye.&#xA;Resource is kindly provided by [Matt].&#xA;Oh, and here is a massive breakdown of tracker music resources i&amp;rsquo;ve stashed for you:</description>
+    </item>
+    <item>
+      <title>HOW TO COMPLETELY DISABLE TELEMETRY SERVICES WHICH DIAL BACK TO THIRD-PARTIES IN FIREFOX</title>
+      <link>/news/how-to-completely-disable-telemetry-services-which-dial-back-to-third-parties-in-firefox/</link>
+      <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>/news/how-to-completely-disable-telemetry-services-which-dial-back-to-third-parties-in-firefox/</guid>
+      <description>UPDATED ON: 2023-09-06 Some new parameters were added.&#xA;Note that by default all [Nightly versions] of Firefox are sending back telemetry to third-parties in extensive manner. So, to disable such malicious actions besides turning off telemetry settings via standard GUI options:&#xA;about:preferences#privacy You&amp;rsquo;ll need to use good old:&#xA;about:config To change to:&#xA;FALSE &amp;hellip;or create following parameters in software registry:&#xA;toolkit.telemetry.archive.enabled&#xD;toolkit.telemetry.enabled&#xD;toolkit.telemetry.unified&#xD;toolkit.telemetry.unifiedIsOptIn&#xD;toolkit.telemetry.bhrPing.enabled&#xD;toolkit.telemetry.firstShutdownPing.enabled&#xD;toolkit.telemetry.hybridContent.enabled&#xD;toolkit.telemetry.newProfilePing.enabled&#xD;toolkit.telemetry.reportingpolicy.firstRun toolkit.</description>
+    </item>
+    <item>
+      <title>HOW TO STAY SAFE WHEN USING OB-SOUL-EEE-TEE WINDOWS 7 IN 2023?</title>
+      <link>/news/how-to-stay-safe-when-using-ob-soul-eee-tee-windows-7-in-2023-/</link>
+      <pubDate>Wed, 02 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>/news/how-to-stay-safe-when-using-ob-soul-eee-tee-windows-7-in-2023-/</guid>
+      <description>I often get asked regarding Windows 7 safety especially in 2023.&#xA;&amp;#34;Is it safe to use such old operating system?&amp;#34; &amp;#34;What about security?&amp;#34; &amp;#34;How about modern viruses?&amp;#34;&#xD;.... &amp;hellip;. and many other similar questions.&#xA;Funny thing that people who are asking about security don&amp;rsquo;t give a damn about privacy. Yeah, that&amp;rsquo;s quite different definitions for sure, but from my point of view they always come together hand in hand.&#xA;The main and the most important security police officer is your head.</description>
+    </item>
+    <item>
+      <title>HOW TO CHANGE GUI LANGUAGE IN PHOTOSHOP TO ENGLISH</title>
+      <link>/news/how-to-change-gui-language-in-photoshop-to-english/</link>
+      <pubDate>Thu, 06 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/news/how-to-change-gui-language-in-photoshop-to-english/</guid>
+      <description>&#xA;This can be done by changing application&amp;rsquo;s language locale to English. But what if you have only one non-English language in GUI preferences?&#xA;The solution is surprisingly simple.&#xA;Close Photoshop if it is already running&#xA;Find following file:&#xA;tw10428.dat Standard location:&#xA;C:\Program Files\Adobe\Adobe Photoshop YOUR-VERSION\Locales\YOUR-LANGUAGE\Support Files\ In case of Photoshop 2020 file is named:&#xA;tw10428_Photoshop_ru_RU.dat Rename it into something like: tw10428.dat.bak Ta-da! Start software and enjoy! Imagery by spacedrone808 @Adobe Imagery by spacedrone808 @Freepik </description>
+    </item>
+    <item>
+      <title>HOW TO MINIMIZE LAPTOP POWER CONSUMPTION</title>
+      <link>/news/how-to-minimize-laptop-power-consumption/</link>
+      <pubDate>Thu, 29 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>/news/how-to-minimize-laptop-power-consumption/</guid>
+      <description>Say you need to run on a laptop battery vintage or simply non-demanding applications for an extremely long time. Here is a little breakdown of mandatory things to do:&#xA;turn off in BIOS unneeded devices like camera, sd-card reader, fingerprint scanner, gsm-modem, wifi, bt or whatever you are not using turn on power saving features like various C-power states turn off hyper-threading and hi-core count [if you have such ability] lower screen brightness to acceptable level check my [quick] and [comprehensive] optimization FAQs get rid of [unneeded services and bloat applications] Also you can use core parking utility [Park Control], but in this mini-guide i&amp;rsquo;ll show you how to set power related things up via internal Windows 7 tools.</description>
+    </item>
+    <item>
+      <title>HOW TO SET PROPER COLOR FOR CURSOR AND COMMENTS IN VSCODE EDITOR</title>
+      <link>/news/how-to-set-proper-cursor-color-in-vscode/</link>
+      <pubDate>Wed, 28 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>/news/how-to-set-proper-cursor-color-in-vscode/</guid>
+      <description>UPDATED ON: 2023-12-02&#xA;The main reason i&amp;rsquo;ve decided to write this note is indistinct default color mappings and inability to solve issue simply using GUI of software.&#xA;In main configuration file:&#xA;settings.json add following lines:&#xA;&amp;#34;workbench.colorCustomizations&amp;#34;: {&#xD;&amp;#34;editorCursor.foreground&amp;#34;: &amp;#34;#ff0000&amp;#34;,&#xD;&amp;#34;terminalCursor.foreground&amp;#34;: &amp;#34;#02ED3D&amp;#34;,&#xD;&amp;#34;editorLineNumber.activeForeground&amp;#34;: &amp;#34;#ff0000&amp;#34;,&#xD;&amp;#34;editor.lineHighlightBackground&amp;#34;: &amp;#34;#016119&amp;#34;,&#xD;&amp;#34;editor.lineHighlightBorder&amp;#34;: &amp;#34;#02ED3D&amp;#34;,&#xD;&amp;#34;terminal.foreground&amp;#34;: &amp;#34;#02ed3d&amp;#34; }, To set custom color for GREY comments drop in these lines:&#xA;&amp;#34;editor.tokenColorCustomizations&amp;#34;: {&#xD;&amp;#34;conmments&amp;#34;: &amp;#34;#ff006f&amp;#34;&#xD;} To fast access configuration file press:</description>
+    </item>
+    <item>
+      <title>HOW TO RUN LATEST VS CODE IN WINDOWS 7 X64</title>
+      <link>/news/how-to-run-latest-vs-code-in-windows-7-x64/</link>
+      <pubDate>Sat, 24 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>/news/how-to-run-latest-vs-code-in-windows-7-x64/</guid>
+      <description>UPDATED ON: 2024-07-05 v1.81.1 is a more recent version, which can be executed without any efforts v1.89 is a hacked [FINAL version] for Windows 7 x64 So, Windows 7 users are pretty safe at this point despite artificial restrictions of big corps.&#xA;Usually i&amp;rsquo;m not feeling so delightful regarding microsoft modern programs, but this one is pretty good. And of course they tried to artificially cripple it under &amp;ldquo;obsolete&amp;rdquo; Windows 7.</description>
+    </item>
+    <item>
+      <title>HOW TO PLAY CLASSIC FALLOUT 2 TO GET THE MOST OUT OF IT IN 2023?</title>
+      <link>/news/how-to-play-classic-fallout-2-to-get-the-most-out-of-it-in-2023/</link>
+      <pubDate>Sat, 17 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>/news/how-to-play-classic-fallout-2-to-get-the-most-out-of-it-in-2023/</guid>
+      <description>So you want to do a deep dive into the best RPG game of all time and don&amp;rsquo;t know how do it in a right way in 2023? You&amp;rsquo;ve come to the right place, coz unlisted slacker knows precisely what you need to do in the first place.&#xA;Here is a breakdown list of what you need to do to run Fallout 2 buttery smooth:&#xA;grab original [Fallout 2] distribution from GOG [latest version 2.</description>
+    </item>
+    <item>
+      <title>HOW TO RUN NODE.JS 18.18 LTS ON OBSOLETE WINDOWS 7</title>
+      <link>/news/how-to-run-latest-node-js-on-obsolete-windows-7/</link>
+      <pubDate>Wed, 14 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>/news/how-to-run-latest-node-js-on-obsolete-windows-7/</guid>
+      <description>UPDATED ON: 2024-08-29&#xA;Node.js dropped Windows 7 &amp;ldquo;support&amp;rdquo; rigth after [version number 13].What a load of sh#t. Today i&amp;rsquo;ll tell you how to overcome this nonsense and run latest LTS version [Node.JS 18.x] without any problems. More newer versions may work also. I&amp;rsquo;ll leave you some room for experiments. Recently i found excellent already [patched installer of NodeJS 18]&#xA;First of all you need to download zipped version of software, not msi one.</description>
+    </item>
+    <item>
+      <title>HUNTERS 1-2 [1996-2011] ▀ SWEDISH DETECTIVE STORIES</title>
+      <link>/news/hunters-1-2-1996-2011/</link>
+      <pubDate>Thu, 25 May 2023 00:00:00 +0000</pubDate>
+      <guid>/news/hunters-1-2-1996-2011/</guid>
+      <description>&#xA;Tired of crappy holywood detective action stories? Here is a couple of really decent ones. Swedish at this time. Quite boring at the beginning, but surprisingly intense in the end. Good acting is also here.&#xA;[The Hunters] [The Hunters 2: False Trail]&#xA;THE HUNTERS [1996] FALSE TRAIL [2011] Imagery by spacedrone808 @Adobe Imagery by spacedrone808 @Freepik </description>
+    </item>
+    <item>
+      <title>FALLOUT ▀ VAULT13 [TBD]</title>
+      <link>/news/fallout-vault-13/</link>
+      <pubDate>Tue, 11 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>/news/fallout-vault-13/</guid>
+      <description>Is an ambitious project to replicate Fallout 1 world using Fallout 4 engine. Currently game in it’s early stage of development, but location of Shady Sands was already showcased to the public.&#xA;Developers intend to redo original voice-over because of copyright trademarks. Moreover they are trying to copy voice aesthetics as close as possible to original Fallout 1. Also you can already preview multiple soundtracks created by [Radiofloyd].&#xA;As for me, I really like what they are doing, despite the fact that I&amp;rsquo;m not fond of Fallout 3/4.</description>
+    </item>
+    <item>
+      <title>HOW TO RUN 16-BIT APPLICATIONS IN WINDOWS 7 X64</title>
+      <link>/news/how-to-run-16-bit-applications-in-windows-7-x64/</link>
+      <pubDate>Fri, 07 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>/news/how-to-run-16-bit-applications-in-windows-7-x64/</guid>
+      <description>As you may already know, there is no official ability to execute old 16-bit software in 64-bit operating systems. So if you have favorite Windows 3.x applications such stupid restriction was a complete bummer. But only until today! At least for me. WinVDM will resolve your frustration.&#xA;For providing such valuable information thanks goes out to [NeonFloppy website].&#xA;► WINVDM @ GITHUB&#xA;Unpack archive anywhere, execute INSTALL with admin privileges and you are good to go After installation working state could be checked by [Windows 3.</description>
+    </item>
+    <item>
+      <title>HOW TO FLASH ROOTED ANDROID 8 ON SONY XPERIA XZ1 COMPACT IN WINDOWS 7 ENVIRONMENT</title>
+      <link>/news/how-to-flash-rooted-android-8-on-sony-xperia-xz1-compact-in-windows-7-environment/</link>
+      <pubDate>Wed, 05 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>/news/how-to-flash-rooted-android-8-on-sony-xperia-xz1-compact-in-windows-7-environment/</guid>
+      <description>UPDATED ON: 2023-04-20 Important update, substantial refactoring, many errors fixed&#xA;▒ PREFACE WORDS Following instruction is dedicated to flashing stock Android 8.0 firmware for Russian region, but almost all information can be applied to USA or any other region firmware. So, no restrictions here.&#xA;Remember that all commands and programs should be executed with admin privileges and your account must have administrator rights! If something goes wrong for some reason be sure to check [TROUBLESHOOTING] section!</description>
+    </item>
+    <item>
+      <title>HOW TO EXPAND LIST OF SUPPORTED ADDONS IN ANDROID FIREFOX</title>
+      <link>/news/how-to-expand-list-of-supported-addons-in-android-firefox/</link>
+      <pubDate>Thu, 16 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>/news/how-to-expand-list-of-supported-addons-in-android-firefox/</guid>
+      <description>UPDATED ON: 2023-08-31&#xA;Not long ago i&amp;rsquo;ve already mentioned about privacy-hardened [Mull browser]. Very nice Android browser, but have one serious downside: limited amount of supported addons. Yes, i like desktop convenience on the go!&#xA;To enable additional addons in mobile Firefox browser you&amp;rsquo;ll need to sideload custom addon collection tied to mozilla account. It&amp;rsquo;s astonishing fact how they like to implement overcomplicated stuff!&#xA;To create your own collection you&amp;rsquo;ll need Firefox account, but i&amp;rsquo;ll not bother to spent time on such dumb efforts.</description>
+    </item>
+    <item>
+      <title>HOW TO RUN OBS STUDIO V29 IN WINDOWS 7</title>
+      <link>/news/how-to-run-obs-studio-29-in-windows-7/</link>
+      <pubDate>Fri, 17 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>/news/how-to-run-obs-studio-29-in-windows-7/</guid>
+      <description>I&amp;rsquo;ll keep post updated if any changes happen.&#xA;Recently last officially supported version was [27.4.2]. But from now on we can use actual version of software.&#xA;Here is small instruction list on how to make things rollin&amp;rsquo; under mighty Windows 7:&#xA;Obtain hacked [QT 6.3.1 DLLs for Windows 7] ||| [Mirror] [QT6 is not officially supported] Download [CFF Explorer][direct link] for basic resource hackery Obviously grab latest zipped archive [OBS Studio 29.</description>
+    </item>
+    <item>
+      <title>NEW EPYC 256 THREAD CPU FINALLY REACH WINDOWS 7 CORE COUNT LIMITATION</title>
+      <link>/news/256-thread-epyc-cpu-finally-reach-windows-7-core-count-limitation/</link>
+      <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/news/256-thread-epyc-cpu-finally-reach-windows-7-core-count-limitation/</guid>
+      <description>Most of you already know how AMD substitute in terms of cores/threads count intel&amp;rsquo;s pathetic&amp;rsquo;n&amp;rsquo;degenerative CPU evolution into revolution. Drastic changes were brought by [Ryzen] CPUs in consumer market in late 2017. [Threadripper] and [Epyc] lines were introduced later on [for workstation and server market respectively].&#xA;► [128 core / 256 thread Epyc Bergamo CPU]&#xA;It would be nice to see 256 threads in Windows 7 task manager, but i don&amp;rsquo;t think that it is possible due to lack of drivers.</description>
+    </item>
+    <item>
+      <title>CANONKONG&#39;S WINDOWS 7 USB 3 DRIVER FOR MODERN AMD PLATFORMS HAS BEEN UPDATED!</title>
+      <link>/news/canonkong-windows-7-usb-3-0-driver-for-modern-platforms-has-been-updated/</link>
+      <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/news/canonkong-windows-7-usb-3-0-driver-for-modern-platforms-has-been-updated/</guid>
+      <description>UPDATED ON: 2024-09-20 I will surely return to post to bring update on FINAL version of driver&#xA;[Canonkong] brings [ANOTHER BIG UPDATE] to the marvellous modern USB3 driver for [Windows 7].&#xA;Latest version: 2024-09-13 Supported chipsets: X370, X399, B450, X470, TRX40, A520, B550, PRO565, X570, B560, X670, WRX80 Recommended motherboards: MSI, Gigabyte Not recommended: Asus [works, but with some restrictions] Not working at all: Asrock&#xA;► **[USB3 DRIVER MOD] ► **[ASUS VERSION] ► **[ACPI.</description>
+    </item>
+    <item>
+      <title>HOW TO BRING BACK CLASSIC SQUARE TABS IN RECENT FIREFOX</title>
+      <link>/news/how-to-bring-back-square-tabs-in-firefox/</link>
+      <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>/news/how-to-bring-back-square-tabs-in-firefox/</guid>
+      <description>Tired of round shaped chrome-like tabs?&#xA;These tweaks attempt to recreate the feel of Quantum with its squared tabs and menus, but in the Proton UI. As of FF91, the about:config option to disable proton has been deprecated, leaving CSS as the main way to revert the UI.&#xA;Want to bring back minimalistic strict lines and make things more serious?&#xA;[Firefox-Proton-Square] tweak will help ya.&#xA;INSTALLATION PROCESS&#xA;Enable userChrome.css support Go to about:config toolkit.</description>
+    </item>
+    <item>
+      <title>HOW TO SPEED UP MAP RENDERING IN ANDROID OPEN STREET MAPS APPLICATION</title>
+      <link>/news/how-to-speed-up-map-rendering-in-android-open-street-maps-application/</link>
+      <pubDate>Sun, 11 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>/news/how-to-speed-up-map-rendering-in-android-open-street-maps-application/</guid>
+      <description>UPDATED ON: 2023-03-31&#xA;To speed up map rendering a bit turn on [OpenGL] acceleration in software settings.&#xA;In version 4.3 new OpenGL renderer was transferred from hidden settings to generic ones.&#xA;Now option can be found here:&#xA;≡ Settings ► OsmAnd settings ► Map rendering engine ► Version 2 (OpenGL) It looks like that as of version 4.3.12 all compatibility and performance issues were solved. So, i advice you to install 4.</description>
+    </item>
+    <item>
+      <title>64-CORES/128-THREADS THREADRIPPER 3995WX WORKSTATION GRADE CPU CONFIRMED TO WORK IN WINDOWS 7</title>
+      <link>/news/64-core-128-thread-threadripper-3995wx-confirmed-to-work-in-windows-7/</link>
+      <pubDate>Wed, 30 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>/news/64-core-128-thread-threadripper-3995wx-confirmed-to-work-in-windows-7/</guid>
+      <description>Well known Chinese driver modder [Canonkong] confirmed that [64-cores/128-threads Threadripper 3995WX] based upon sWRX8 chipset works flawlessly in Windows 7 environment. Considering the news it looks like that more recent [5995WX] will also work without any issues. So, we have plenty of headroom in terms of system performance. As for me, i have no need to switch to &amp;ldquo;recent operating systems&amp;rdquo; like Windows 10/11.&#xA;Here is brief [confirmation] from the WinRaid forum:</description>
+    </item>
+    <item>
+      <title>HOW TO DEPLATFORM YOURSELF, ESCAPE PROFILE BUBBLE AND STOP PERSONAL DATA LEAKAGE</title>
+      <link>/news/how-to-deplatform-yourself-escape-profile-bubble-and-stop-persoanl-data-leakage/</link>
+      <pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>/news/how-to-deplatform-yourself-escape-profile-bubble-and-stop-persoanl-data-leakage/</guid>
+      <description>Stop using mainstream operating systems like Windows 11/10/8.1, modern Linux, like Ubuntu or modern MacOS versions. On mobile Android 14/13/12/11/10/9/8.1 are prohibited because they use neural networks to profile your device and dial back to “home” to dump your personal data and preferences. iOS from very beginning was very phony platform.&#xA;My personal choices are Windows 7 for desktop and Android 8.0 for mobile. These two cover my digital needs fully, no restrictions whatsoever.</description>
+    </item>
+    <item>
+      <title>44 THREADS XEON WORKSTATION AND 32 THREADS OPTERON SERVER RETRO BUILDS</title>
+      <link>/news/44-threads-xeon-workstation-and-32-threads-opteron-server-retro-builds/</link>
+      <pubDate>Sun, 14 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>/news/44-threads-xeon-workstation-and-32-threads-opteron-server-retro-builds/</guid>
+      <description>&lt;br&gt;&#xD;&#xA;&lt;p&gt;As you already know i fed up using &lt;a href=&#34;https://trackerninja.codeberg.page/post/my-daily-driver-rig-based-upon-ryzen-5950x-running-windows-7&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[modern Ryzen/Radeon hardware]&lt;/a&gt; and decided to go a bit retro. Cheap Chinese clone mobos and second-hand high-performance cpu&amp;rsquo;s of previous generations induced me to rebuild my workstation and also fool around with Opteron-based server.&#xA;&lt;br&gt;&#xA;Here is &lt;a href=&#34;https://docs.google.com/spreadsheets/d/1qW1QraucVBm6pHzoD8yUvza9RhgzjQEJ0p78FHJifeY&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[very detailed spreadsheet comparision]&lt;/a&gt; of almost all available Chinese x79/x89/x99 boards on the market.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>1984 IS ALREADY HERE</title>
+      <link>/news/1984-is-already-here/</link>
+      <pubDate>Sun, 19 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>/news/1984-is-already-here/</guid>
+      <description>War is peace.&#xD;Freedom is slavery.&#xD;Ignorance is strength. Nineteen Eighty-Four, also known as 1984, is a 1984 British dystopian science fiction film written and directed by Michael Radford, based upon George Orwell’s 1949 novel of the same name.&#xA;Film follows the life of Winston Smith, a low-ranking civil servant in a war-torn London ruled by Oceania, a totalitarian superstate.&#xA;Smith struggles to maintain his sanity and his grip on reality as the regime’s overwhelming power and influence persecutes individualism and individual thinking on both a political and personal level.</description>
+    </item>
+    <item>
+      <title>100 YEAR OLD MAN WHO CLIMBED OUT THE WINDOW AND DISAPPEARED [2013]</title>
+      <link>/news/100-year-old-man-who-climbed-out-the-window-n-disappeared/</link>
+      <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
+      <guid>/news/100-year-old-man-who-climbed-out-the-window-n-disappeared/</guid>
+      <description>&#xA;Delicate [Swedish humour] at its best.&#xA;MOVIE TRAILER Imagery by spacedrone808 @Adobe Imagery by spacedrone808 @Freepik </description>
+    </item>
+    <item>
+      <title>HOW TO MAKE TEXT INDENT IN HUGO FRAMEWORK VIA CSS</title>
+      <link>/news/how-to-make-text-indent-in-hugo-framework-via-css/</link>
+      <pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>/news/how-to-make-text-indent-in-hugo-framework-via-css/</guid>
+      <description>&#xA;Locate your style.css&#xA;NAME-OF-THE-PROJECT\themes\NAME-OF-THEME\assets\css\style.css Add following code to apply 30px indentation.&#xA;p {&#xD;text-indent: 30px;&#xD;} For no indentation:&#xA;p {&#xD;text-indent: 0px;&#xD;} or just remove the whole block of p code.&#xA;Imagery by spacedrone808 @Adobe Imagery by spacedrone808 @Freepik </description>
+    </item>
+    <item>
+      <title>FAR MANAGER ▀ FASTEST TEXT FILE MANAGER FOR WINDOWS 7</title>
+      <link>/news/far-manager-fastest-file-manager-for-windows-7/</link>
+      <pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>/news/far-manager-fastest-file-manager-for-windows-7/</guid>
+      <description>&#xA;Lightning fast text two-panel orthodox file manager with loads of functionality. These blue panels take very special place in my heart. Maybe because i&amp;rsquo;m using software right from the mid 90s. Still under active development. 64-bit version is preffered.&#xA;[DOWNLOAD FAR MANAGER]&#xA;Imagery by spacedrone808 @Adobe Imagery by spacedrone808 @Freepik </description>
+    </item>
+    <item>
+      <title>1950X / 3100 / 5950X / RADEON VII / 6900XT ▀ WINDOWS 7 MEGA BENCHMARK</title>
+      <link>/news/1950x-3100-5950x-radeon-vii-radeon-6900xt-windows-7-super-mega-benchmark/</link>
+      <pubDate>Sun, 13 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>/news/1950x-3100-5950x-radeon-vii-radeon-6900xt-windows-7-super-mega-benchmark/</guid>
+      <description>¶ PREFACE NOTE Finally i have won the battle with my laziness and forced myself to complete this so looooooooongish project. Enjoy!&#xA;PS: 3DMark 03, 3DMark 05, 3DMark 06, 3DMark Vantage [2007], 3DMark 2011 and 3DMark 2021 are not marked by ▒ sign, showing the fact that these programs lost the soul of demoscene and just providing comparison numbers, nothing else.&#xA;█ COMPUTER CONFIGURATIONS CPUs: Threadripper 1 1950X / Ryzen 9 5950X / Ryzen 3 3100 GPUs: Radeon VII 16Gb / Radeon 6900XT 16Gb GFX SETTINGS: 2560x1600 32Bit color [where possible], ULTRA+ settings, Anti-aliasing is turned OFF COMPUTER TESTBEDS: [1] ► Threadripper 1950X / Asrock Taichi X399M / 64Gb DDR4 2667@2800Mhz / Radeon VII 16Gb [2] ► Threadripper 1950X / Asrock Taichi X399M / 64Gb DDR4 2667@2800Mhz / Radeon 6900XT 16Gb [3] ► Ryzen 3 3100 @3.</description>
+    </item>
+    <item>
+      <title>EXIFTOOL ▀ HOW TO FAST TAG GRAPHICS FILES WITH PERSONAL METADATA</title>
+      <link>/news/exif-tool-how-to-fast-tag-graphics-files-with-personal-meta-data/</link>
+      <pubDate>Sun, 20 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>/news/exif-tool-how-to-fast-tag-graphics-files-with-personal-meta-data/</guid>
+      <description>&#xA;[Exiftool] is a convenient command line tool, which allows to change meta data of media files, like photos and pictures. You can download it [here].&#xA;CLEARING IPTC/EXIF METADATA IN ALL EXISTING FILES&#xA;c:\exiftool.exe -overwrite_original -all= C:\PATH-TO-YOUR_FOLDER&#xD;exit CHANGING/OVERWRITING TAG METADATA IN APPOINTED FOLDER&#xA;c:\exiftool.exe -overwrite_original -XMP-iptcCore:CreatorWorkEmail=&amp;#34;YOUR EMAIL ADDRESS&amp;#34; -XMP-iptcCore:CreatorWorkURL=&amp;#34;YOUR WEBSITE&amp;#34; -artist=&amp;#34;YOUR NAME&amp;#34; -copyright=&amp;#34;YOUR COPYRIGHT&amp;#34; -Credit=&amp;#34;YOUR NAME&amp;#34; -Source=&amp;#34;YOUR NAME&amp;#34; -sep &amp;#34;, &amp;#34; -keywords=&amp;#34;background, backdrop, postcard, design, element, wallpaper, dramatic, concept, decoration, scene, vivid, vibrant, travel, trip&amp;#34; C:\FOLDER-TO-PROCESS&#xD;exit Imagery by spacedrone808 @Adobe Imagery by spacedrone808 @Freepik </description>
+    </item>
+    <item>
+      <title>HOW TO RUN AFFINITY PHOTO USING CLASSIC WINDOWS 7 INTERFACE WITHOUT AERO ENABLED</title>
+      <link>/news/how-to-run-affinity-photo-using-classic-windows-7-interface-without-aero-enabled/</link>
+      <pubDate>Sat, 22 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/news/how-to-run-affinity-photo-using-classic-windows-7-interface-without-aero-enabled/</guid>
+      <description>&#xA;By default software forbids execution when you are using classic desktop and aero is not enabled.&#xA;However, there is a nice workaround. By adding &amp;ndash;no-dwm-warning switch to starting shortcut you can avoid internal restriction.&#xA;&amp;#34;C:\Program Files\Affinity\Photo\Photo.exe&amp;#34; --no-dwm-warning NOTE: with some graphical drivers you may experience visual artifacts and not so precise image rendering.&#xA;Imagery by spacedrone808 @Adobe Imagery by spacedrone808 @Freepik </description>
+    </item>
+    <item>
+      <title>CAN SONY XPERIA XZ1 COMPACT AND NOKIA PUREVIEW 808 HANDLE 1TB SD CARD?</title>
+      <link>/news/can-sony-xperia-xz1-compact-and-nokia-pureview-808-handle-1tb-sd-card_/</link>
+      <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/news/can-sony-xperia-xz1-compact-and-nokia-pureview-808-handle-1tb-sd-card_/</guid>
+      <description>UPDATED ON: 2023-04-19&#xA;Most modern marketing smart-phones are mumbling about support of really large SD cards. But only on Hi-End models. I&amp;rsquo;m not even speaking about pathetic iphones, which are disabled in terms of external storage due to the greed of executive directors. In this note i will check old mastodonts like:&#xA;[Sony Xperia XZ1 Compact [2017]] [Nokia PureView 808 [2012]] for compatibility with such ENORMOUS storage device.&#xA;Sony XZ1 Compact handles such capacity without any problems.</description>
+    </item>
+    <item>
+      <title>HOW TO GET RID OF ANNOYING NIK COLLECTION UPDATE NOTIFICATION</title>
+      <link>/news/how-to-get-rid-of-annoying-nik-collection-update-notification/</link>
+      <pubDate>Thu, 28 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>/news/how-to-get-rid-of-annoying-nik-collection-update-notification/</guid>
+      <description>[Nik Collection] is a great graphical effects plugin pack to work with your favorite raster editor [mine is [Affinity Photo] in case you are interested]. Everything is fine, except annoying update popup, which is opening right after every plugin initialization. Such stuff completely breaks workflow if you don&amp;rsquo;t want to update for some reason. And there is no way to turn it off from GUI using normal methods.&#xA;However, you can shut update checks off from configuration file, which is located here:</description>
+    </item>
+    <item>
+      <title>FENNEC F-DROID AS A REPLACEMENT FOR AGING ICECAT 68 ESR [ANDROID]</title>
+      <link>/news/fennec-f-droid-as-a-replacement-for-aging-icecat-68-esr/</link>
+      <pubDate>Tue, 19 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>/news/fennec-f-droid-as-a-replacement-for-aging-icecat-68-esr/</guid>
+      <description>UPDATED ON: 2023-02-20 I recommend to replace Fennec F-Droid with [Mull Browser] due to the fact that is COMPLETELY free from telemetry. In contrast to Fennec Mull browser do not trigger any mozilla or google connections, so take a note. And for God&amp;rsquo;s sake do not use plain Firefox, it is almost like chrome now!&#xA;As my main web surfer IceCat begin to showing it’s age and don’t have any new versions apart from &amp;ldquo;super-new&amp;rdquo; 68.</description>
+    </item>
+    <item>
+      <title>HUMAN TRAFFIC [1999]</title>
+      <link>/news/human-traffic-1999/</link>
+      <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>/news/human-traffic-1999/</guid>
+      <description>&#xA;British, [almost documentary movie about rave culture of 90s] reminds me of my own youth. Quite talented picture for sure.&#xA;DJ Koop always puts me on the right rails.&#xA;I used to pretend the same thing Koop&amp;rsquo;s scratching The most raddest scene of the film: Koop&amp;rsquo;s Jungle record store Imagery by spacedrone808 @Adobe Imagery by spacedrone808 @Freepik </description>
+    </item>
+    <item>
+      <title>FALLOUT I/II ▀ BEST RPG EVER!</title>
+      <link>/news/fallout-1-2-best-rpg-ever/</link>
+      <pubDate>Sun, 10 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>/news/fallout-1-2-best-rpg-ever/</guid>
+      <description>My favorite game of all times. Thanks to it I’ve learn English [to some kind of degree] and even was almost expelled from university. What a neat memories. I was totally obsessed with deep &amp;ldquo;in game&amp;rdquo; atmosphere. Cyberpunk post-apocalyptic stuff, you know what I’m saying and those incredible ambient from master [Mark Morgan]. Can firmly confirm that modern series of this franchise don’t provide such immersion. As for backdrop music, Mark Morgan in Fallout ½ set quality bar to unreachable level.</description>
+    </item>
+    <item>
+      <title>FASTEST AMD-BASED CARDS FOR LEGACY WINDOWS 98/2000/XP/7</title>
+      <link>/news/fastest-amd-based-cards-for-legacy-windows-98-2000-xp-7/</link>
+      <pubDate>Sun, 26 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>/news/fastest-amd-based-cards-for-legacy-windows-98-2000-xp-7/</guid>
+      <description>Quick breakdown of the most powerful AMD-based cards for legacy operating systems.&#xA;[X850XT PE] ► WINDOWS 98 [official drivers]/ Omega drivers] [HD 3870 X 2] ► WINDOWS 2000 [official drivers] plus some INF tinkering, will review that one later on [HD 5970] ► WINDOWS 2000 [Blackwingcat hacks] [R9 270X] ► WINDOWS XP [official drivers] [6950XT] ► WINDOWS 7 [official drivers] ◄ currently rocking on that one under Windows 7 wing.</description>
+    </item>
+    <item>
+      <title>HOW TO REMOVE ANNOYING CONFIRMATION WINDOW WHEN COPYING FILES FROM PUTER TO CELLPHONE OVER DUMB MTP PROTOCOL</title>
+      <link>/news/how-to-remove-annoying-confirmation-window-when-copying-files-from-puter-to-cellphone-via-mtp/</link>
+      <pubDate>Thu, 23 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>/news/how-to-remove-annoying-confirmation-window-when-copying-files-from-puter-to-cellphone-via-mtp/</guid>
+      <description>Of course you run into situations when you would like to copy &amp;ldquo;non-standard&amp;rdquo; files to your Android smartphone and dumb MTP protocol showed up window like this one:&#xA;And this torture repeated after every new file type copied. Such imbecility can be removed by following command in admin console:&#xA;regsvr32 /u wpdshext.dll That&amp;rsquo;s all, limitation is gone.&#xA;Another hint, which potentially can help to overcome weird design of MTP protocol.</description>
+    </item>
+    <item>
+      <title>EVIL DEAD I/II/III ▀ STYLISH VIDEO EFFECTS OF 90s ERA</title>
+      <link>/news/evil-dead-stylish-video-effects-of-90s-era/</link>
+      <pubDate>Wed, 22 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>/news/evil-dead-stylish-video-effects-of-90s-era/</guid>
+      <description>I think that people are sicking tired of cheap computer graphics. Everything is so plastic and unnaturally glossy these days. Miss those real video effects from early 90s. And yeah, they were so atmospheric, especially amplified effect of beam light coming out of backdrop. Evil Dead is very neat example, just look at these pieces. Make sure to watch S-Mart scene!&#xA;Evil Dead I Ending Scene Evil Dead ][ Cabin Run Evil Dead ][ Ending Scene Evil Dead ]I[ S-Mart End BLOG UPDATE ► full theme refactoring, made it more 90&amp;rsquo;ish, RGB and stuff, you know what i&amp;rsquo;m saying, fixed some issues</description>
+    </item>
+    <item>
+      <title>HOW TO OPEN LINKS IN A NEW TAB IN MAINROAD HUGO THEME</title>
+      <link>/news/how-to-open-links-in-a-new-tab-in-mainroad-hugo-theme/</link>
+      <pubDate>Sun, 12 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>/news/how-to-open-links-in-a-new-tab-in-mainroad-hugo-theme/</guid>
+      <description>I bet that many of you would like to open site links not in the same window, but in a background tab. Such behavior is restricted by default settings of most Hugo themes. Mainroad is restricting it also. Here is a solution on how to overcome weird limitation.&#xA;Create file render-link.html in _default folder of the theme. Name_of_your_site\themes\mainroad\layouts\_default\_markup\render-link.html Contents of render-link.html should be like this:&#xA;&amp;lt;a href=&amp;#34;{{ .Destination | safeURL }}&amp;#34;{{ with .</description>
+    </item>
+    <item>
+      <title>HOW TO ENABLE HTML CODE IN MARKDOWN FILES</title>
+      <link>/news/how-to-enable-html-code-in-markdown-files/</link>
+      <pubDate>Mon, 23 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>/news/how-to-enable-html-code-in-markdown-files/</guid>
+      <description>&lt;br&gt;&#xD;&#xA;&lt;p&gt;Trick is very simple, if you know where to dig.&#xA;Just find &lt;strong&gt;config.toml&lt;/strong&gt; file of your Hugo theme and add following section.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>HOW TO REPAIR BROKEN WINDOWS 7</title>
+      <link>/news/how-to-repair-broken-windows-7/</link>
+      <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>/news/how-to-repair-broken-windows-7/</guid>
+      <description>To check system hard drive and fix errors:&#xA;chkdsk c: /f To check system hard drive, fix errors, locate and mark bad sectors:&#xA;chkdsk c: /r Very basic command to check integrity of system files:&#xA;sfc /scannow If sfc can&amp;rsquo;t help you try DISM.&#xA;Check system health for any corruption presence:&#xA;Dism /Online /Cleanup-Image /CheckHealth Check system health for store corruption presence:&#xA;Dism /Online /Cleanup-Image /ScanHealth Finally, repair command:</description>
+    </item>
+  </channel>
+</rss>

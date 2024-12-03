@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>x64 on Hugo Hacker Theme</title>
+    <link>/tags/x64/</link>
+    <description>Recent content in x64 on Hugo Hacker Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 28 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/x64/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HOW TO SET PROPER COLOR FOR CURSOR AND COMMENTS IN VSCODE EDITOR</title>
+      <link>/news/how-to-set-proper-cursor-color-in-vscode/</link>
+      <pubDate>Wed, 28 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>/news/how-to-set-proper-cursor-color-in-vscode/</guid>
+      <description>UPDATED ON: 2023-12-02&#xA;The main reason i&amp;rsquo;ve decided to write this note is indistinct default color mappings and inability to solve issue simply using GUI of software.&#xA;In main configuration file:&#xA;settings.json add following lines:&#xA;&amp;#34;workbench.colorCustomizations&amp;#34;: {&#xD;&amp;#34;editorCursor.foreground&amp;#34;: &amp;#34;#ff0000&amp;#34;,&#xD;&amp;#34;terminalCursor.foreground&amp;#34;: &amp;#34;#02ED3D&amp;#34;,&#xD;&amp;#34;editorLineNumber.activeForeground&amp;#34;: &amp;#34;#ff0000&amp;#34;,&#xD;&amp;#34;editor.lineHighlightBackground&amp;#34;: &amp;#34;#016119&amp;#34;,&#xD;&amp;#34;editor.lineHighlightBorder&amp;#34;: &amp;#34;#02ED3D&amp;#34;,&#xD;&amp;#34;terminal.foreground&amp;#34;: &amp;#34;#02ed3d&amp;#34; }, To set custom color for GREY comments drop in these lines:&#xA;&amp;#34;editor.tokenColorCustomizations&amp;#34;: {&#xD;&amp;#34;conmments&amp;#34;: &amp;#34;#ff006f&amp;#34;&#xD;} To fast access configuration file press:</description>
+    </item>
+    <item>
+      <title>HOW TO RUN LATEST VS CODE IN WINDOWS 7 X64</title>
+      <link>/news/how-to-run-latest-vs-code-in-windows-7-x64/</link>
+      <pubDate>Sat, 24 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>/news/how-to-run-latest-vs-code-in-windows-7-x64/</guid>
+      <description>UPDATED ON: 2024-07-05 v1.81.1 is a more recent version, which can be executed without any efforts v1.89 is a hacked [FINAL version] for Windows 7 x64 So, Windows 7 users are pretty safe at this point despite artificial restrictions of big corps.&#xA;Usually i&amp;rsquo;m not feeling so delightful regarding microsoft modern programs, but this one is pretty good. And of course they tried to artificially cripple it under &amp;ldquo;obsolete&amp;rdquo; Windows 7.</description>
+    </item>
+    <item>
+      <title>HOW TO RUN 16-BIT APPLICATIONS IN WINDOWS 7 X64</title>
+      <link>/news/how-to-run-16-bit-applications-in-windows-7-x64/</link>
+      <pubDate>Fri, 07 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>/news/how-to-run-16-bit-applications-in-windows-7-x64/</guid>
+      <description>As you may already know, there is no official ability to execute old 16-bit software in 64-bit operating systems. So if you have favorite Windows 3.x applications such stupid restriction was a complete bummer. But only until today! At least for me. WinVDM will resolve your frustration.&#xA;For providing such valuable information thanks goes out to [NeonFloppy website].&#xA;► WINVDM @ GITHUB&#xA;Unpack archive anywhere, execute INSTALL with admin privileges and you are good to go After installation working state could be checked by [Windows 3.</description>
+    </item>
+  </channel>
+</rss>
