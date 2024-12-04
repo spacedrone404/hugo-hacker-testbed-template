@@ -28,6 +28,7 @@
 	}
 }
 
+
 @font-face {
 	font-family: "FiraSansRegular";
 	src: url("../../fonts/FiraSans-Regular.woff2") format("woff2");
@@ -676,25 +677,26 @@ select {
 }
 
 .logo {
-	padding: 24px;
+	padding: 12px;
 }
 
 .logo__link {
 	display: inline-block;
+	margin-top: -7px;
 }
 
 .logo__item {
 	display: inline-block;
 	vertical-align: middle;
 }
-}
+
 
 .logo__text {
-	text-transform: uppercase;
+	text-transform: uppercase
 }
 
 .logo--mixed .logo__item {
-	margin: 0.7rem auto;
+	margin: .7rem auto
 }
 
 .logo--mixed .logo__img {
@@ -704,6 +706,7 @@ select {
 	width: 100%;
 	margin-top: -14px;
 	margin-bottom: -28px;
+	scale: 104%;
 }
 
 .logo--mixed .logo__text {
