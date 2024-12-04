@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Android 8 on Hugo Hacker Theme</title>
-    <link>/categories/android-8/</link>
+    <link>https://spacedrone404.github.io/hugo-hacker-testbed-template/categories/android-8/</link>
     <description>Recent content in Android 8 on Hugo Hacker Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 21 Jul 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/categories/android-8/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://spacedrone404.github.io/hugo-hacker-testbed-template/categories/android-8/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>HOW TO COPY FILES FROM ANDROID PHONE TO PC IN AN EASY AND FAST WAY</title>
-      <link>/news/how-to-copy-files-from-android-phone-to-pc-in-an-easy-and-fast-way/</link>
+      <link>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-copy-files-from-android-phone-to-pc-in-an-easy-and-fast-way/</link>
       <pubDate>Sun, 21 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>/news/how-to-copy-files-from-android-phone-to-pc-in-an-easy-and-fast-way/</guid>
+      <guid>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-copy-files-from-android-phone-to-pc-in-an-easy-and-fast-way/</guid>
       <description>First things first. I often need to copy substantial amount of photos from my phone. It can&amp;rsquo;t be done via Windows GUI without millions of mouse clicks or keystrokes. Here you will find a solution on how to do this in a proper way. The key tool for this will be [ADB], developer tools for Android.&#xA;Wishes: command line, batch, no file explorer, no mouse, no clickety-clack.&#xA;Sicking tired of all of these not-so-precise-instructions i&amp;rsquo;ve decided to make my own.</description>
     </item>
     <item>
       <title>HOW TO POWER OFF OR RESTART ANDROID PHONE WITHOUT TOUCHING HARDWARE BUTTONS</title>
-      <link>/news/how-to-power-off-or-restart-android-phone-without-touching-hardware-buttons/</link>
+      <link>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-power-off-or-restart-android-phone-without-touching-hardware-buttons/</link>
       <pubDate>Tue, 05 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>/news/how-to-power-off-or-restart-android-phone-without-touching-hardware-buttons/</guid>
+      <guid>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-power-off-or-restart-android-phone-without-touching-hardware-buttons/</guid>
       <description>Say you would like to extend life cycle of your hardware power button and want to turn off/restart your device without touching mechanics. Unfortunately most of smartphones don&amp;rsquo;t offer such functionality out of the box. However there is an easy way to make things rollin&#39;.&#xA;Problem can be solved by installing [Power Menu], very small application. It is a simple tool which just works, do expected thing and moreover contains no bloat at all.</description>
     </item>
     <item>
       <title>HOW TO FLASH ROOTED ANDROID 8 ON SONY XPERIA XZ1 COMPACT IN WINDOWS 7 ENVIRONMENT</title>
-      <link>/news/how-to-flash-rooted-android-8-on-sony-xperia-xz1-compact-in-windows-7-environment/</link>
+      <link>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-flash-rooted-android-8-on-sony-xperia-xz1-compact-in-windows-7-environment/</link>
       <pubDate>Wed, 05 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>/news/how-to-flash-rooted-android-8-on-sony-xperia-xz1-compact-in-windows-7-environment/</guid>
+      <guid>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-flash-rooted-android-8-on-sony-xperia-xz1-compact-in-windows-7-environment/</guid>
       <description>UPDATED ON: 2023-04-20 Important update, substantial refactoring, many errors fixed&#xA;▒ PREFACE WORDS Following instruction is dedicated to flashing stock Android 8.0 firmware for Russian region, but almost all information can be applied to USA or any other region firmware. So, no restrictions here.&#xA;Remember that all commands and programs should be executed with admin privileges and your account must have administrator rights! If something goes wrong for some reason be sure to check [TROUBLESHOOTING] section!</description>
     </item>
     <item>
       <title>HOW TO EXPAND LIST OF SUPPORTED ADDONS IN ANDROID FIREFOX</title>
-      <link>/news/how-to-expand-list-of-supported-addons-in-android-firefox/</link>
+      <link>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-expand-list-of-supported-addons-in-android-firefox/</link>
       <pubDate>Thu, 16 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>/news/how-to-expand-list-of-supported-addons-in-android-firefox/</guid>
+      <guid>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-expand-list-of-supported-addons-in-android-firefox/</guid>
       <description>UPDATED ON: 2023-08-31&#xA;Not long ago i&amp;rsquo;ve already mentioned about privacy-hardened [Mull browser]. Very nice Android browser, but have one serious downside: limited amount of supported addons. Yes, i like desktop convenience on the go!&#xA;To enable additional addons in mobile Firefox browser you&amp;rsquo;ll need to sideload custom addon collection tied to mozilla account. It&amp;rsquo;s astonishing fact how they like to implement overcomplicated stuff!&#xA;To create your own collection you&amp;rsquo;ll need Firefox account, but i&amp;rsquo;ll not bother to spent time on such dumb efforts.</description>
     </item>
     <item>
       <title>HOW TO SPEED UP MAP RENDERING IN ANDROID OPEN STREET MAPS APPLICATION</title>
-      <link>/news/how-to-speed-up-map-rendering-in-android-open-street-maps-application/</link>
+      <link>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-speed-up-map-rendering-in-android-open-street-maps-application/</link>
       <pubDate>Sun, 11 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>/news/how-to-speed-up-map-rendering-in-android-open-street-maps-application/</guid>
+      <guid>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-speed-up-map-rendering-in-android-open-street-maps-application/</guid>
       <description>UPDATED ON: 2023-03-31&#xA;To speed up map rendering a bit turn on [OpenGL] acceleration in software settings.&#xA;In version 4.3 new OpenGL renderer was transferred from hidden settings to generic ones.&#xA;Now option can be found here:&#xA;≡ Settings ► OsmAnd settings ► Map rendering engine ► Version 2 (OpenGL) It looks like that as of version 4.3.12 all compatibility and performance issues were solved. So, i advice you to install 4.</description>
     </item>
     <item>
       <title>HOW TO DEPLATFORM YOURSELF, ESCAPE PROFILE BUBBLE AND STOP PERSONAL DATA LEAKAGE</title>
-      <link>/news/how-to-deplatform-yourself-escape-profile-bubble-and-stop-persoanl-data-leakage/</link>
+      <link>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-deplatform-yourself-escape-profile-bubble-and-stop-persoanl-data-leakage/</link>
       <pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>/news/how-to-deplatform-yourself-escape-profile-bubble-and-stop-persoanl-data-leakage/</guid>
+      <guid>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-deplatform-yourself-escape-profile-bubble-and-stop-persoanl-data-leakage/</guid>
       <description>Stop using mainstream operating systems like Windows 11/10/8.1, modern Linux, like Ubuntu or modern MacOS versions. On mobile Android 14/13/12/11/10/9/8.1 are prohibited because they use neural networks to profile your device and dial back to “home” to dump your personal data and preferences. iOS from very beginning was very phony platform.&#xA;My personal choices are Windows 7 for desktop and Android 8.0 for mobile. These two cover my digital needs fully, no restrictions whatsoever.</description>
     </item>
     <item>
       <title>FENNEC F-DROID AS A REPLACEMENT FOR AGING ICECAT 68 ESR [ANDROID]</title>
-      <link>/news/fennec-f-droid-as-a-replacement-for-aging-icecat-68-esr/</link>
+      <link>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/fennec-f-droid-as-a-replacement-for-aging-icecat-68-esr/</link>
       <pubDate>Tue, 19 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>/news/fennec-f-droid-as-a-replacement-for-aging-icecat-68-esr/</guid>
+      <guid>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/fennec-f-droid-as-a-replacement-for-aging-icecat-68-esr/</guid>
       <description>UPDATED ON: 2023-02-20 I recommend to replace Fennec F-Droid with [Mull Browser] due to the fact that is COMPLETELY free from telemetry. In contrast to Fennec Mull browser do not trigger any mozilla or google connections, so take a note. And for God&amp;rsquo;s sake do not use plain Firefox, it is almost like chrome now!&#xA;As my main web surfer IceCat begin to showing it’s age and don’t have any new versions apart from &amp;ldquo;super-new&amp;rdquo; 68.</description>
     </item>
     <item>
       <title>HOW TO REMOVE ANNOYING CONFIRMATION WINDOW WHEN COPYING FILES FROM PUTER TO CELLPHONE OVER DUMB MTP PROTOCOL</title>
-      <link>/news/how-to-remove-annoying-confirmation-window-when-copying-files-from-puter-to-cellphone-via-mtp/</link>
+      <link>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-remove-annoying-confirmation-window-when-copying-files-from-puter-to-cellphone-via-mtp/</link>
       <pubDate>Thu, 23 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>/news/how-to-remove-annoying-confirmation-window-when-copying-files-from-puter-to-cellphone-via-mtp/</guid>
+      <guid>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-remove-annoying-confirmation-window-when-copying-files-from-puter-to-cellphone-via-mtp/</guid>
       <description>Of course you run into situations when you would like to copy &amp;ldquo;non-standard&amp;rdquo; files to your Android smartphone and dumb MTP protocol showed up window like this one:&#xA;And this torture repeated after every new file type copied. Such imbecility can be removed by following command in admin console:&#xA;regsvr32 /u wpdshext.dll That&amp;rsquo;s all, limitation is gone.&#xA;Another hint, which potentially can help to overcome weird design of MTP protocol.</description>
     </item>
   </channel>

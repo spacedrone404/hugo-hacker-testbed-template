@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Figma on Hugo Hacker Theme</title>
-    <link>/tags/figma/</link>
+    <link>https://spacedrone404.github.io/hugo-hacker-testbed-template/tags/figma/</link>
     <description>Recent content in Figma on Hugo Hacker Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 12 Mar 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/figma/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://spacedrone404.github.io/hugo-hacker-testbed-template/tags/figma/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ESSENTIAL SHORTCUTS IN FIGMA</title>
-      <link>/news/essential-shortcuts-in-figma/</link>
+      <link>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/essential-shortcuts-in-figma/</link>
       <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>/news/essential-shortcuts-in-figma/</guid>
+      <guid>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/essential-shortcuts-in-figma/</guid>
       <description>&#xA;Here a list of the most important hotkeys for Figma application.&#xA;[CTRL] + [] ► hide figma gui [CTRL] + [/] ► spotlight for quick commands [CTRL] + [SHIFT] + [E] ► fast export [CTRL] + [D] ► duplicate mockup [V] ► move tool [F] ► create frame [T] ► text tool [CTRL] + [B] ► bold text [CTRL] + [I] ► italic text [CTRL] + [G] ► group text [CTRL] + [A] ► select all [CTRL] + [SHIFT] + [A] ► invert seelction [CTRL] + [C]/[V] ► copy/paste [CTRL] + [R] ► rename [CTRL] + [SHIFT] + [&amp;lt;]/[&amp;gt;] ► fast change font size Imagery by spacedrone808 @Adobe Imagery by spacedrone808 @Freepik </description>
     </item>
   </channel>

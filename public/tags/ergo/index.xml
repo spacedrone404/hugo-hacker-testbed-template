@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ergo on Hugo Hacker Theme</title>
-    <link>/tags/ergo/</link>
+    <link>https://spacedrone404.github.io/hugo-hacker-testbed-template/tags/ergo/</link>
     <description>Recent content in Ergo on Hugo Hacker Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 09 Sep 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/ergo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://spacedrone404.github.io/hugo-hacker-testbed-template/tags/ergo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>HOW TO TUNE THE DISPLAY OF YOUR SMARTPHONE TO AVOID ANNOYING PWM PROBLEMS</title>
-      <link>/news/how-to-tune-the-display-of-your-smartphone-to-avoid-annoying-pwm-problems/</link>
+      <link>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-tune-the-display-of-your-smartphone-to-avoid-annoying-pwm-problems/</link>
       <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>/news/how-to-tune-the-display-of-your-smartphone-to-avoid-annoying-pwm-problems/</guid>
+      <guid>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-tune-the-display-of-your-smartphone-to-avoid-annoying-pwm-problems/</guid>
       <description>In this note, I will describe all the settings you need to tweak to get a 100% flicker-free, eye-friendly result on your smartphone. However, some settings are quite extreme and you don&amp;rsquo;t need to apply all of them, such as the monochrome filter or setting extremely high warm values on the color temperature slider.&#xA;PWM flickering is a &amp;ldquo;feature&amp;rdquo; of most digital displays at relatively low brightness levels that can cause eye strain and headaches.</description>
     </item>
   </channel>

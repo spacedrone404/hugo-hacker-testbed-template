@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Obs on Hugo Hacker Theme</title>
-    <link>/tags/obs/</link>
+    <link>https://spacedrone404.github.io/hugo-hacker-testbed-template/tags/obs/</link>
     <description>Recent content in Obs on Hugo Hacker Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 17 Feb 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/obs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://spacedrone404.github.io/hugo-hacker-testbed-template/tags/obs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>HOW TO RUN OBS STUDIO V29 IN WINDOWS 7</title>
-      <link>/news/how-to-run-obs-studio-29-in-windows-7/</link>
+      <link>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-run-obs-studio-29-in-windows-7/</link>
       <pubDate>Fri, 17 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>/news/how-to-run-obs-studio-29-in-windows-7/</guid>
+      <guid>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-run-obs-studio-29-in-windows-7/</guid>
       <description>I&amp;rsquo;ll keep post updated if any changes happen.&#xA;Recently last officially supported version was [27.4.2]. But from now on we can use actual version of software.&#xA;Here is small instruction list on how to make things rollin&amp;rsquo; under mighty Windows 7:&#xA;Obtain hacked [QT 6.3.1 DLLs for Windows 7] ||| [Mirror] [QT6 is not officially supported] Download [CFF Explorer][direct link] for basic resource hackery Obviously grab latest zipped archive [OBS Studio 29.</description>
     </item>
   </channel>

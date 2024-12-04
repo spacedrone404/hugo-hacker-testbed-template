@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Windows31 on Hugo Hacker Theme</title>
-    <link>/tags/windows31/</link>
+    <link>https://spacedrone404.github.io/hugo-hacker-testbed-template/tags/windows31/</link>
     <description>Recent content in Windows31 on Hugo Hacker Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 07 Apr 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/windows31/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://spacedrone404.github.io/hugo-hacker-testbed-template/tags/windows31/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>HOW TO RUN 16-BIT APPLICATIONS IN WINDOWS 7 X64</title>
-      <link>/news/how-to-run-16-bit-applications-in-windows-7-x64/</link>
+      <link>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-run-16-bit-applications-in-windows-7-x64/</link>
       <pubDate>Fri, 07 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>/news/how-to-run-16-bit-applications-in-windows-7-x64/</guid>
+      <guid>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-run-16-bit-applications-in-windows-7-x64/</guid>
       <description>As you may already know, there is no official ability to execute old 16-bit software in 64-bit operating systems. So if you have favorite Windows 3.x applications such stupid restriction was a complete bummer. But only until today! At least for me. WinVDM will resolve your frustration.&#xA;For providing such valuable information thanks goes out to [NeonFloppy website].&#xA;► WINVDM @ GITHUB&#xA;Unpack archive anywhere, execute INSTALL with admin privileges and you are good to go After installation working state could be checked by [Windows 3.</description>
     </item>
   </channel>

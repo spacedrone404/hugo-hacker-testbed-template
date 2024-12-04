@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Xperia on Hugo Hacker Theme</title>
-    <link>/tags/xperia/</link>
+    <link>https://spacedrone404.github.io/hugo-hacker-testbed-template/tags/xperia/</link>
     <description>Recent content in Xperia on Hugo Hacker Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 21 Sep 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/xperia/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://spacedrone404.github.io/hugo-hacker-testbed-template/tags/xperia/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>HOW TO EASILY FIX GPS ISSUES ON SONY XZ1 COMPACT SMARTPHONE</title>
-      <link>/news/how-to-easily-fix-gps-issues-on-sony-xz1-compact-smartphone/</link>
+      <link>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-easily-fix-gps-issues-on-sony-xz1-compact-smartphone/</link>
       <pubDate>Thu, 21 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>/news/how-to-easily-fix-gps-issues-on-sony-xz1-compact-smartphone/</guid>
+      <guid>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-easily-fix-gps-issues-on-sony-xz1-compact-smartphone/</guid>
       <description>As you may know [Sony Xperia XZ1 Compact] is my main web surfing phone on the go. I&amp;rsquo;m fully satisfied with it&amp;rsquo;s capabilities even in 2023. Except one little problem, related to GPS and speed of satellites detection.&#xA;Issue showed up couple of months ago and it seems that i finally found an easy way to fix it. After some investigations i conclude that device has a hardware based problem, and to eliminate it completely you need to open phone casing and pull up antenna so it will have tighter surface touching with in-case metallic plate.</description>
     </item>
     <item>
       <title>HOW TO FLASH ROOTED ANDROID 8 ON SONY XPERIA XZ1 COMPACT IN WINDOWS 7 ENVIRONMENT</title>
-      <link>/news/how-to-flash-rooted-android-8-on-sony-xperia-xz1-compact-in-windows-7-environment/</link>
+      <link>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-flash-rooted-android-8-on-sony-xperia-xz1-compact-in-windows-7-environment/</link>
       <pubDate>Wed, 05 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>/news/how-to-flash-rooted-android-8-on-sony-xperia-xz1-compact-in-windows-7-environment/</guid>
+      <guid>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-flash-rooted-android-8-on-sony-xperia-xz1-compact-in-windows-7-environment/</guid>
       <description>UPDATED ON: 2023-04-20 Important update, substantial refactoring, many errors fixed&#xA;▒ PREFACE WORDS Following instruction is dedicated to flashing stock Android 8.0 firmware for Russian region, but almost all information can be applied to USA or any other region firmware. So, no restrictions here.&#xA;Remember that all commands and programs should be executed with admin privileges and your account must have administrator rights! If something goes wrong for some reason be sure to check [TROUBLESHOOTING] section!</description>
     </item>
   </channel>

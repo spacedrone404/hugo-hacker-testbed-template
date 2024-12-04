@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Addons on Hugo Hacker Theme</title>
-    <link>/tags/addons/</link>
+    <link>https://spacedrone404.github.io/hugo-hacker-testbed-template/tags/addons/</link>
     <description>Recent content in Addons on Hugo Hacker Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 16 Mar 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/addons/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://spacedrone404.github.io/hugo-hacker-testbed-template/tags/addons/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>HOW TO EXPAND LIST OF SUPPORTED ADDONS IN ANDROID FIREFOX</title>
-      <link>/news/how-to-expand-list-of-supported-addons-in-android-firefox/</link>
+      <link>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-expand-list-of-supported-addons-in-android-firefox/</link>
       <pubDate>Thu, 16 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>/news/how-to-expand-list-of-supported-addons-in-android-firefox/</guid>
+      <guid>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-expand-list-of-supported-addons-in-android-firefox/</guid>
       <description>UPDATED ON: 2023-08-31&#xA;Not long ago i&amp;rsquo;ve already mentioned about privacy-hardened [Mull browser]. Very nice Android browser, but have one serious downside: limited amount of supported addons. Yes, i like desktop convenience on the go!&#xA;To enable additional addons in mobile Firefox browser you&amp;rsquo;ll need to sideload custom addon collection tied to mozilla account. It&amp;rsquo;s astonishing fact how they like to implement overcomplicated stuff!&#xA;To create your own collection you&amp;rsquo;ll need Firefox account, but i&amp;rsquo;ll not bother to spent time on such dumb efforts.</description>
     </item>
   </channel>

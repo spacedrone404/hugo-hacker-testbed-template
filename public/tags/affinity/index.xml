@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Affinity on Hugo Hacker Theme</title>
-    <link>/tags/affinity/</link>
+    <link>https://spacedrone404.github.io/hugo-hacker-testbed-template/tags/affinity/</link>
     <description>Recent content in Affinity on Hugo Hacker Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sat, 22 Jan 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/affinity/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://spacedrone404.github.io/hugo-hacker-testbed-template/tags/affinity/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>HOW TO RUN AFFINITY PHOTO USING CLASSIC WINDOWS 7 INTERFACE WITHOUT AERO ENABLED</title>
-      <link>/news/how-to-run-affinity-photo-using-classic-windows-7-interface-without-aero-enabled/</link>
+      <link>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-run-affinity-photo-using-classic-windows-7-interface-without-aero-enabled/</link>
       <pubDate>Sat, 22 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>/news/how-to-run-affinity-photo-using-classic-windows-7-interface-without-aero-enabled/</guid>
+      <guid>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-run-affinity-photo-using-classic-windows-7-interface-without-aero-enabled/</guid>
       <description>&#xA;By default software forbids execution when you are using classic desktop and aero is not enabled.&#xA;However, there is a nice workaround. By adding &amp;ndash;no-dwm-warning switch to starting shortcut you can avoid internal restriction.&#xA;&amp;#34;C:\Program Files\Affinity\Photo\Photo.exe&amp;#34; --no-dwm-warning NOTE: with some graphical drivers you may experience visual artifacts and not so precise image rendering.&#xA;Imagery by spacedrone808 @Adobe Imagery by spacedrone808 @Freepik </description>
     </item>
   </channel>

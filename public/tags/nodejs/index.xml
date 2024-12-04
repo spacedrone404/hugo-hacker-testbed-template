@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nodejs on Hugo Hacker Theme</title>
-    <link>/tags/nodejs/</link>
+    <link>https://spacedrone404.github.io/hugo-hacker-testbed-template/tags/nodejs/</link>
     <description>Recent content in Nodejs on Hugo Hacker Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 14 Jun 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/nodejs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://spacedrone404.github.io/hugo-hacker-testbed-template/tags/nodejs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>HOW TO RUN NODE.JS 18.18 LTS ON OBSOLETE WINDOWS 7</title>
-      <link>/news/how-to-run-latest-node-js-on-obsolete-windows-7/</link>
+      <link>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-run-latest-node-js-on-obsolete-windows-7/</link>
       <pubDate>Wed, 14 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>/news/how-to-run-latest-node-js-on-obsolete-windows-7/</guid>
+      <guid>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-run-latest-node-js-on-obsolete-windows-7/</guid>
       <description>UPDATED ON: 2024-08-29&#xA;Node.js dropped Windows 7 &amp;ldquo;support&amp;rdquo; rigth after [version number 13].What a load of sh#t. Today i&amp;rsquo;ll tell you how to overcome this nonsense and run latest LTS version [Node.JS 18.x] without any problems. More newer versions may work also. I&amp;rsquo;ll leave you some room for experiments. Recently i found excellent already [patched installer of NodeJS 18]&#xA;First of all you need to download zipped version of software, not msi one.</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Internet on Hugo Hacker Theme</title>
-    <link>/tags/internet/</link>
+    <link>https://spacedrone404.github.io/hugo-hacker-testbed-template/tags/internet/</link>
     <description>Recent content in Internet on Hugo Hacker Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sat, 04 Nov 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/internet/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://spacedrone404.github.io/hugo-hacker-testbed-template/tags/internet/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>HOW TO IMPROVE PERFORMANCE OF WEBSITE</title>
-      <link>/news/how-to-improve-performance-of-website/</link>
+      <link>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-improve-performance-of-website/</link>
       <pubDate>Sat, 04 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>/news/how-to-improve-performance-of-website/</guid>
+      <guid>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-improve-performance-of-website/</guid>
       <description>UPDATED ON: 2023-11-04&#xA;Nothing complex here, at least at this time. Here i&amp;rsquo;ll accumulate performance related information.&#xA;░▒▓ LAZY LOADING OF IMAGES ▓▒░ Just implemented lazy loading at my main index page. Concept is pretty simple you are loading images only when they appearing in the viewport of the browser. All you need to do is just to apply loading=&amp;ldquo;lazy&amp;rdquo; to the classes of loaded images.&#xA;&amp;lt;img loading=&amp;#34;lazy&amp;#34; src=&amp;#34;/img/demo./png&amp;#34; alt=&amp;#34;Picture&amp;#34;&amp;gt; In my case it was like this:</description>
     </item>
   </channel>

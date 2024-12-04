@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Linux on Hugo Hacker Theme</title>
-    <link>/tags/linux/</link>
+    <link>https://spacedrone404.github.io/hugo-hacker-testbed-template/tags/linux/</link>
     <description>Recent content in Linux on Hugo Hacker Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 21 Aug 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://spacedrone404.github.io/hugo-hacker-testbed-template/tags/linux/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>HOW TO CONFIGURE MULTI SUB-DOMAN WEBSERVER IN DEBIAN LINUX</title>
-      <link>/news/how-to-configure-multi-sub-doman-webserver-in-debian-linux/</link>
+      <link>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-configure-multi-sub-doman-webserver-in-debian-linux/</link>
       <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>/news/how-to-configure-multi-sub-doman-webserver-in-debian-linux/</guid>
+      <guid>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-configure-multi-sub-doman-webserver-in-debian-linux/</guid>
       <description>Firsts things first, for better file handling install [Midnight Commander]:&#xA;sudo apt-get install mc Download fresh version of webserver software:&#xA;sudo apt-get install apache2 Locate and edit configuration file:&#xA;/etc/apache2/apache2.conf Note that in some distributions it can named as httpd.conf.&#xA;No file at all? You can create it by:&#xA;touch apache2.conf For relatively easy editing i recommend Nano editor.&#xA;sudo apt-get install nano CTRL+O ► to save file CTRL+X ► exit file Here is an example for locally placed development webserver, containing two sub-domains.</description>
     </item>
     <item>
       <title>HOW TO IMPORT CUSTOM CERTIFICATE TO CERTIFICATE STORAGE IN DEBIAN LINUX</title>
-      <link>/news/how-to-import-custom-certificate-to-certificate-storage-in-debian-linux/</link>
+      <link>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-import-custom-certificate-to-certificate-storage-in-debian-linux/</link>
       <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>/news/how-to-import-custom-certificate-to-certificate-storage-in-debian-linux/</guid>
+      <guid>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-import-custom-certificate-to-certificate-storage-in-debian-linux/</guid>
       <description>Say you are trying to install software and receive message from the operating system about untrusted certificate in certificate chain. In such case you need to import certificate of the middle-man organization into the Linux certificate storage to make things happen.&#xA;If for some reason your third-party certificate comes in DER binary format, you should convert it to CRT format:&#xA;openssl x509 -inform DER -in certificate.der -out certificate.crt Copy to storage:</description>
     </item>
     <item>
       <title>ESSENTIAL SHORTCUTS IN FIGMA</title>
-      <link>/news/essential-shortcuts-in-figma/</link>
+      <link>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/essential-shortcuts-in-figma/</link>
       <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>/news/essential-shortcuts-in-figma/</guid>
+      <guid>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/essential-shortcuts-in-figma/</guid>
       <description>&#xA;Here a list of the most important hotkeys for Figma application.&#xA;[CTRL] + [] ► hide figma gui [CTRL] + [/] ► spotlight for quick commands [CTRL] + [SHIFT] + [E] ► fast export [CTRL] + [D] ► duplicate mockup [V] ► move tool [F] ► create frame [T] ► text tool [CTRL] + [B] ► bold text [CTRL] + [I] ► italic text [CTRL] + [G] ► group text [CTRL] + [A] ► select all [CTRL] + [SHIFT] + [A] ► invert seelction [CTRL] + [C]/[V] ► copy/paste [CTRL] + [R] ► rename [CTRL] + [SHIFT] + [&amp;lt;]/[&amp;gt;] ► fast change font size Imagery by spacedrone808 @Adobe Imagery by spacedrone808 @Freepik </description>
     </item>
   </channel>

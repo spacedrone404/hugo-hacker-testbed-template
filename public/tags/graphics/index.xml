@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Graphics on Hugo Hacker Theme</title>
-    <link>/tags/graphics/</link>
+    <link>https://spacedrone404.github.io/hugo-hacker-testbed-template/tags/graphics/</link>
     <description>Recent content in Graphics on Hugo Hacker Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 09 Sep 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/graphics/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://spacedrone404.github.io/hugo-hacker-testbed-template/tags/graphics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>HOW TO TUNE THE DISPLAY OF YOUR SMARTPHONE TO AVOID ANNOYING PWM PROBLEMS</title>
-      <link>/news/how-to-tune-the-display-of-your-smartphone-to-avoid-annoying-pwm-problems/</link>
+      <link>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-tune-the-display-of-your-smartphone-to-avoid-annoying-pwm-problems/</link>
       <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>/news/how-to-tune-the-display-of-your-smartphone-to-avoid-annoying-pwm-problems/</guid>
+      <guid>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-tune-the-display-of-your-smartphone-to-avoid-annoying-pwm-problems/</guid>
       <description>In this note, I will describe all the settings you need to tweak to get a 100% flicker-free, eye-friendly result on your smartphone. However, some settings are quite extreme and you don&amp;rsquo;t need to apply all of them, such as the monochrome filter or setting extremely high warm values on the color temperature slider.&#xA;PWM flickering is a &amp;ldquo;feature&amp;rdquo; of most digital displays at relatively low brightness levels that can cause eye strain and headaches.</description>
     </item>
     <item>
       <title>ESSENTIAL SHORTCUTS IN FIGMA</title>
-      <link>/news/essential-shortcuts-in-figma/</link>
+      <link>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/essential-shortcuts-in-figma/</link>
       <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>/news/essential-shortcuts-in-figma/</guid>
+      <guid>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/essential-shortcuts-in-figma/</guid>
       <description>&#xA;Here a list of the most important hotkeys for Figma application.&#xA;[CTRL] + [] ► hide figma gui [CTRL] + [/] ► spotlight for quick commands [CTRL] + [SHIFT] + [E] ► fast export [CTRL] + [D] ► duplicate mockup [V] ► move tool [F] ► create frame [T] ► text tool [CTRL] + [B] ► bold text [CTRL] + [I] ► italic text [CTRL] + [G] ► group text [CTRL] + [A] ► select all [CTRL] + [SHIFT] + [A] ► invert seelction [CTRL] + [C]/[V] ► copy/paste [CTRL] + [R] ► rename [CTRL] + [SHIFT] + [&amp;lt;]/[&amp;gt;] ► fast change font size Imagery by spacedrone808 @Adobe Imagery by spacedrone808 @Freepik </description>
     </item>
     <item>
       <title>HOW TO ENABLE SVG PREVIEW IN WINDOWS EXPLORER ON WINDOWS 7</title>
-      <link>/news/how-to-enable-svg-preview-in-windows-explorer-on-windows-7/</link>
+      <link>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-enable-svg-preview-in-windows-explorer-on-windows-7/</link>
       <pubDate>Fri, 03 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>/news/how-to-enable-svg-preview-in-windows-explorer-on-windows-7/</guid>
+      <guid>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-enable-svg-preview-in-windows-explorer-on-windows-7/</guid>
       <description>So, you want to be a hip and would like to have the feature of SVG preview in file explorer like in fancy windows 11 of friend of yours? It is surely possible, even on such old crone like Windows 7!&#xA;[SVG See] is an excellent application, which bring such functionality to our crony operating system.&#xA;If you are for some reason don&amp;rsquo;t observe SVG previews in explorer there are a couple of things that you could try to fix things up:</description>
     </item>
   </channel>

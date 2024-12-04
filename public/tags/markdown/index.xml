@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Markdown on Hugo Hacker Theme</title>
-    <link>/tags/markdown/</link>
+    <link>https://spacedrone404.github.io/hugo-hacker-testbed-template/tags/markdown/</link>
     <description>Recent content in Markdown on Hugo Hacker Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 12 Sep 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://spacedrone404.github.io/hugo-hacker-testbed-template/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>HOW TO OPEN LINKS IN A NEW TAB IN MAINROAD HUGO THEME</title>
-      <link>/news/how-to-open-links-in-a-new-tab-in-mainroad-hugo-theme/</link>
+      <link>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-open-links-in-a-new-tab-in-mainroad-hugo-theme/</link>
       <pubDate>Sun, 12 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>/news/how-to-open-links-in-a-new-tab-in-mainroad-hugo-theme/</guid>
+      <guid>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-open-links-in-a-new-tab-in-mainroad-hugo-theme/</guid>
       <description>I bet that many of you would like to open site links not in the same window, but in a background tab. Such behavior is restricted by default settings of most Hugo themes. Mainroad is restricting it also. Here is a solution on how to overcome weird limitation.&#xA;Create file render-link.html in _default folder of the theme. Name_of_your_site\themes\mainroad\layouts\_default\_markup\render-link.html Contents of render-link.html should be like this:&#xA;&amp;lt;a href=&amp;#34;{{ .Destination | safeURL }}&amp;#34;{{ with .</description>
     </item>
     <item>
       <title>HOW TO ENABLE HTML CODE IN MARKDOWN FILES</title>
-      <link>/news/how-to-enable-html-code-in-markdown-files/</link>
+      <link>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-enable-html-code-in-markdown-files/</link>
       <pubDate>Mon, 23 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>/news/how-to-enable-html-code-in-markdown-files/</guid>
+      <guid>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-enable-html-code-in-markdown-files/</guid>
       <description>&lt;br&gt;&#xD;&#xA;&lt;p&gt;Trick is very simple, if you know where to dig.&#xA;Just find &lt;strong&gt;config.toml&lt;/strong&gt; file of your Hugo theme and add following section.&lt;/p&gt;</description>
     </item>
   </channel>

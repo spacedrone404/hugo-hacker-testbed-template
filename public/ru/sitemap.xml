@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/ru/categories/</loc>
+    <loc>https://spacedrone404.github.io/hugo-hacker-testbed-template/ru/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/categories/"
+                href="https://spacedrone404.github.io/hugo-hacker-testbed-template/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="/ru/categories/"
+                href="https://spacedrone404.github.io/hugo-hacker-testbed-template/ru/categories/"
                 />
   </url><url>
-    <loc>/ru/</loc>
+    <loc>https://spacedrone404.github.io/hugo-hacker-testbed-template/ru/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/"
+                href="https://spacedrone404.github.io/hugo-hacker-testbed-template/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="/ru/"
+                href="https://spacedrone404.github.io/hugo-hacker-testbed-template/ru/"
                 />
   </url><url>
-    <loc>/ru/tags/</loc>
+    <loc>https://spacedrone404.github.io/hugo-hacker-testbed-template/ru/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/"
+                href="https://spacedrone404.github.io/hugo-hacker-testbed-template/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="/ru/tags/"
+                href="https://spacedrone404.github.io/hugo-hacker-testbed-template/ru/tags/"
                 />
   </url>
 </urlset>

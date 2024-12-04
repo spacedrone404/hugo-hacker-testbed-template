@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Firefox on Hugo Hacker Theme</title>
-    <link>/tags/firefox/</link>
+    <link>https://spacedrone404.github.io/hugo-hacker-testbed-template/tags/firefox/</link>
     <description>Recent content in Firefox on Hugo Hacker Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 08 Aug 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/firefox/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://spacedrone404.github.io/hugo-hacker-testbed-template/tags/firefox/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>HOW TO EXPORT FIREFOX BOOKMARKS AND OPEN LOCALLY PLACED HTML FILES ON ANDROID</title>
-      <link>/news/how-to-export-firefox-bookmarks-and-open-locally-placed-html-files-on-android/</link>
+      <link>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-export-firefox-bookmarks-and-open-locally-placed-html-files-on-android/</link>
       <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>/news/how-to-export-firefox-bookmarks-and-open-locally-placed-html-files-on-android/</guid>
+      <guid>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-export-firefox-bookmarks-and-open-locally-placed-html-files-on-android/</guid>
       <description>You might think that it is kinda ridiculous title, but read on to find out.&#xA;First of all you have to understand that i&amp;rsquo;m not going to share my personal bookmarks with some ugly copro that cloaks itself under the umbrella of free software ideas and use their lame anti-private sync. And i&amp;rsquo;m certainly not going to use any web service provided by these companies in any case.&#xA;Of course we won&amp;rsquo;t skip that generic rant part about how dumb project managers are for not implementing essential features like bookmark export or the ability to open local HTML files in 2024.</description>
     </item>
     <item>
       <title>HOW TO COMPLETELY DISABLE TELEMETRY SERVICES WHICH DIAL BACK TO THIRD-PARTIES IN FIREFOX</title>
-      <link>/news/how-to-completely-disable-telemetry-services-which-dial-back-to-third-parties-in-firefox/</link>
+      <link>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-completely-disable-telemetry-services-which-dial-back-to-third-parties-in-firefox/</link>
       <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>/news/how-to-completely-disable-telemetry-services-which-dial-back-to-third-parties-in-firefox/</guid>
+      <guid>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-completely-disable-telemetry-services-which-dial-back-to-third-parties-in-firefox/</guid>
       <description>UPDATED ON: 2023-09-06 Some new parameters were added.&#xA;Note that by default all [Nightly versions] of Firefox are sending back telemetry to third-parties in extensive manner. So, to disable such malicious actions besides turning off telemetry settings via standard GUI options:&#xA;about:preferences#privacy You&amp;rsquo;ll need to use good old:&#xA;about:config To change to:&#xA;FALSE &amp;hellip;or create following parameters in software registry:&#xA;toolkit.telemetry.archive.enabled&#xD;toolkit.telemetry.enabled&#xD;toolkit.telemetry.unified&#xD;toolkit.telemetry.unifiedIsOptIn&#xD;toolkit.telemetry.bhrPing.enabled&#xD;toolkit.telemetry.firstShutdownPing.enabled&#xD;toolkit.telemetry.hybridContent.enabled&#xD;toolkit.telemetry.newProfilePing.enabled&#xD;toolkit.telemetry.reportingpolicy.firstRun toolkit.</description>
     </item>
     <item>
       <title>HOW TO STAY SAFE WHEN USING OB-SOUL-EEE-TEE WINDOWS 7 IN 2023?</title>
-      <link>/news/how-to-stay-safe-when-using-ob-soul-eee-tee-windows-7-in-2023-/</link>
+      <link>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-stay-safe-when-using-ob-soul-eee-tee-windows-7-in-2023-/</link>
       <pubDate>Wed, 02 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>/news/how-to-stay-safe-when-using-ob-soul-eee-tee-windows-7-in-2023-/</guid>
+      <guid>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-stay-safe-when-using-ob-soul-eee-tee-windows-7-in-2023-/</guid>
       <description>I often get asked regarding Windows 7 safety especially in 2023.&#xA;&amp;#34;Is it safe to use such old operating system?&amp;#34; &amp;#34;What about security?&amp;#34; &amp;#34;How about modern viruses?&amp;#34;&#xD;.... &amp;hellip;. and many other similar questions.&#xA;Funny thing that people who are asking about security don&amp;rsquo;t give a damn about privacy. Yeah, that&amp;rsquo;s quite different definitions for sure, but from my point of view they always come together hand in hand.&#xA;The main and the most important security police officer is your head.</description>
     </item>
     <item>
       <title>HOW TO EXPAND LIST OF SUPPORTED ADDONS IN ANDROID FIREFOX</title>
-      <link>/news/how-to-expand-list-of-supported-addons-in-android-firefox/</link>
+      <link>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-expand-list-of-supported-addons-in-android-firefox/</link>
       <pubDate>Thu, 16 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>/news/how-to-expand-list-of-supported-addons-in-android-firefox/</guid>
+      <guid>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-expand-list-of-supported-addons-in-android-firefox/</guid>
       <description>UPDATED ON: 2023-08-31&#xA;Not long ago i&amp;rsquo;ve already mentioned about privacy-hardened [Mull browser]. Very nice Android browser, but have one serious downside: limited amount of supported addons. Yes, i like desktop convenience on the go!&#xA;To enable additional addons in mobile Firefox browser you&amp;rsquo;ll need to sideload custom addon collection tied to mozilla account. It&amp;rsquo;s astonishing fact how they like to implement overcomplicated stuff!&#xA;To create your own collection you&amp;rsquo;ll need Firefox account, but i&amp;rsquo;ll not bother to spent time on such dumb efforts.</description>
     </item>
     <item>
       <title>HOW TO BRING BACK CLASSIC SQUARE TABS IN RECENT FIREFOX</title>
-      <link>/news/how-to-bring-back-square-tabs-in-firefox/</link>
+      <link>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-bring-back-square-tabs-in-firefox/</link>
       <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>/news/how-to-bring-back-square-tabs-in-firefox/</guid>
+      <guid>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-bring-back-square-tabs-in-firefox/</guid>
       <description>Tired of round shaped chrome-like tabs?&#xA;These tweaks attempt to recreate the feel of Quantum with its squared tabs and menus, but in the Proton UI. As of FF91, the about:config option to disable proton has been deprecated, leaving CSS as the main way to revert the UI.&#xA;Want to bring back minimalistic strict lines and make things more serious?&#xA;[Firefox-Proton-Square] tweak will help ya.&#xA;INSTALLATION PROCESS&#xA;Enable userChrome.css support Go to about:config toolkit.</description>
     </item>
     <item>
       <title>FENNEC F-DROID AS A REPLACEMENT FOR AGING ICECAT 68 ESR [ANDROID]</title>
-      <link>/news/fennec-f-droid-as-a-replacement-for-aging-icecat-68-esr/</link>
+      <link>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/fennec-f-droid-as-a-replacement-for-aging-icecat-68-esr/</link>
       <pubDate>Tue, 19 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>/news/fennec-f-droid-as-a-replacement-for-aging-icecat-68-esr/</guid>
+      <guid>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/fennec-f-droid-as-a-replacement-for-aging-icecat-68-esr/</guid>
       <description>UPDATED ON: 2023-02-20 I recommend to replace Fennec F-Droid with [Mull Browser] due to the fact that is COMPLETELY free from telemetry. In contrast to Fennec Mull browser do not trigger any mozilla or google connections, so take a note. And for God&amp;rsquo;s sake do not use plain Firefox, it is almost like chrome now!&#xA;As my main web surfer IceCat begin to showing it’s age and don’t have any new versions apart from &amp;ldquo;super-new&amp;rdquo; 68.</description>
     </item>
   </channel>

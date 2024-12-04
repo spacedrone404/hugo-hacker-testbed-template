@@ -2,276 +2,276 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>FAQ on Hugo Hacker Theme</title>
-    <link>/categories/faq/</link>
+    <link>https://spacedrone404.github.io/hugo-hacker-testbed-template/categories/faq/</link>
     <description>Recent content in FAQ on Hugo Hacker Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sat, 30 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/categories/faq/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://spacedrone404.github.io/hugo-hacker-testbed-template/categories/faq/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>HOW TO SETUP REMOTE ACCESS TO FOOBAR 2000 MUSIC PLAYER</title>
-      <link>/news/how-to-setup-remote-access-to-foobar-2000-music-player/</link>
+      <link>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-setup-remote-access-to-foobar-2000-music-player/</link>
       <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>/news/how-to-setup-remote-access-to-foobar-2000-music-player/</guid>
+      <guid>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-setup-remote-access-to-foobar-2000-music-player/</guid>
       <description>Most of you have favorite PC audio player of their own, in my case it is [Foobar2000]. In Android 6 times there was a wonderful software called [Foobar 2000 Controller]. It was made to control audio player remotely from your smartphone in a convenient way. For some reason i recall it today and decided to record installing process for future use.&#xA;Guys from [Hydrogen Audio] forum helped me out in some questions and pointed me to the right direction.</description>
     </item>
     <item>
       <title>HOW TO PRANK YOUR COLLEAGUE OR FRIEND WITH A PROFESSIONAL KEYBOARD FILTER</title>
-      <link>/news/how-to-prank-your-colleague-or-friend-with-a-professional-keyboard-filter/</link>
+      <link>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-prank-your-colleague-or-friend-with-a-professional-keyboard-filter/</link>
       <pubDate>Wed, 25 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>/news/how-to-prank-your-colleague-or-friend-with-a-professional-keyboard-filter/</guid>
+      <guid>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-prank-your-colleague-or-friend-with-a-professional-keyboard-filter/</guid>
       <description>So you want to do something evil or make a present for the April&amp;rsquo;s Fool Day to your surrounding. Today we&amp;rsquo;re going to use the professional keyboard application [FilterKeys Setter] in its meanest form, will set keyboard filters to skip keystrokes, but only if the person starts typing at a faster rate.&#xA;I find out that the easiest way is to set Ignore Under parameter somewhere around 60ms, so it will be not so obvious in the beginning for the end user, that key strokes are skipping.</description>
     </item>
     <item>
       <title>HOW TO TRANSFORM APPALLING GUI OF WINDOWS 10 INTO WINDOWS 7 AWESOMENESS</title>
-      <link>/news/how-to-transform-appalling-gui-of-windows-10-into-windows-7-awesomeness/</link>
+      <link>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-transform-appalling-gui-of-windows-10-into-windows-7-awesomeness/</link>
       <pubDate>Thu, 19 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>/news/how-to-transform-appalling-gui-of-windows-10-into-windows-7-awesomeness/</guid>
+      <guid>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-transform-appalling-gui-of-windows-10-into-windows-7-awesomeness/</guid>
       <description>UPDATED ON: 2024-11-12&#xA;Due to the fact that I was forced to use windows 10 at my primary work, I have to accumulate all these software to prevent myself from daily vomiting provoked by original windows 10 diarrhea.&#xA;Ok, kids, you don&amp;rsquo;t like the native looks of Windows 10? So am i! That is why today we transform atrocious Windows 10 interface into clean looking heaven of classic Windows 7.</description>
     </item>
     <item>
       <title>HOW TO TUNE THE DISPLAY OF YOUR SMARTPHONE TO AVOID ANNOYING PWM PROBLEMS</title>
-      <link>/news/how-to-tune-the-display-of-your-smartphone-to-avoid-annoying-pwm-problems/</link>
+      <link>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-tune-the-display-of-your-smartphone-to-avoid-annoying-pwm-problems/</link>
       <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>/news/how-to-tune-the-display-of-your-smartphone-to-avoid-annoying-pwm-problems/</guid>
+      <guid>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-tune-the-display-of-your-smartphone-to-avoid-annoying-pwm-problems/</guid>
       <description>In this note, I will describe all the settings you need to tweak to get a 100% flicker-free, eye-friendly result on your smartphone. However, some settings are quite extreme and you don&amp;rsquo;t need to apply all of them, such as the monochrome filter or setting extremely high warm values on the color temperature slider.&#xA;PWM flickering is a &amp;ldquo;feature&amp;rdquo; of most digital displays at relatively low brightness levels that can cause eye strain and headaches.</description>
     </item>
     <item>
       <title>HOW TO CONFIGURE MULTI SUB-DOMAN WEBSERVER IN DEBIAN LINUX</title>
-      <link>/news/how-to-configure-multi-sub-doman-webserver-in-debian-linux/</link>
+      <link>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-configure-multi-sub-doman-webserver-in-debian-linux/</link>
       <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>/news/how-to-configure-multi-sub-doman-webserver-in-debian-linux/</guid>
+      <guid>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-configure-multi-sub-doman-webserver-in-debian-linux/</guid>
       <description>Firsts things first, for better file handling install [Midnight Commander]:&#xA;sudo apt-get install mc Download fresh version of webserver software:&#xA;sudo apt-get install apache2 Locate and edit configuration file:&#xA;/etc/apache2/apache2.conf Note that in some distributions it can named as httpd.conf.&#xA;No file at all? You can create it by:&#xA;touch apache2.conf For relatively easy editing i recommend Nano editor.&#xA;sudo apt-get install nano CTRL+O ► to save file CTRL+X ► exit file Here is an example for locally placed development webserver, containing two sub-domains.</description>
     </item>
     <item>
       <title>CAPSTER CONVENIENT WAY TO EXECUTE THINGS ON WINDOWS 7 STARTUP</title>
-      <link>/news/capster-convenient-way-to-execute-things-on-windows-7-startup/</link>
+      <link>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/capster-convenient-way-to-execute-things-on-windows-7-startup/</link>
       <pubDate>Tue, 20 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>/news/capster-convenient-way-to-execute-things-on-windows-7-startup/</guid>
+      <guid>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/capster-convenient-way-to-execute-things-on-windows-7-startup/</guid>
       <description>Although I have been using Linux more and more in recent work, Windows 7 remains my main production operating system. And here is an excellent finding for Windows 7 crony named [Capster]. Its main functionality is to launch the specified executable at startup time when the [CAPS LOCK] key is set to ON or OFF. I use Capser to run backup script, that backs up previously selected folders [if i want to].</description>
     </item>
     <item>
       <title>HOW TO IMPORT CUSTOM CERTIFICATE TO CERTIFICATE STORAGE IN DEBIAN LINUX</title>
-      <link>/news/how-to-import-custom-certificate-to-certificate-storage-in-debian-linux/</link>
+      <link>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-import-custom-certificate-to-certificate-storage-in-debian-linux/</link>
       <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>/news/how-to-import-custom-certificate-to-certificate-storage-in-debian-linux/</guid>
+      <guid>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-import-custom-certificate-to-certificate-storage-in-debian-linux/</guid>
       <description>Say you are trying to install software and receive message from the operating system about untrusted certificate in certificate chain. In such case you need to import certificate of the middle-man organization into the Linux certificate storage to make things happen.&#xA;If for some reason your third-party certificate comes in DER binary format, you should convert it to CRT format:&#xA;openssl x509 -inform DER -in certificate.der -out certificate.crt Copy to storage:</description>
     </item>
     <item>
       <title>HOW TO EXPORT FIREFOX BOOKMARKS AND OPEN LOCALLY PLACED HTML FILES ON ANDROID</title>
-      <link>/news/how-to-export-firefox-bookmarks-and-open-locally-placed-html-files-on-android/</link>
+      <link>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-export-firefox-bookmarks-and-open-locally-placed-html-files-on-android/</link>
       <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>/news/how-to-export-firefox-bookmarks-and-open-locally-placed-html-files-on-android/</guid>
+      <guid>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-export-firefox-bookmarks-and-open-locally-placed-html-files-on-android/</guid>
       <description>You might think that it is kinda ridiculous title, but read on to find out.&#xA;First of all you have to understand that i&amp;rsquo;m not going to share my personal bookmarks with some ugly copro that cloaks itself under the umbrella of free software ideas and use their lame anti-private sync. And i&amp;rsquo;m certainly not going to use any web service provided by these companies in any case.&#xA;Of course we won&amp;rsquo;t skip that generic rant part about how dumb project managers are for not implementing essential features like bookmark export or the ability to open local HTML files in 2024.</description>
     </item>
     <item>
       <title>HOW TO COPY FILES FROM ANDROID PHONE TO PC IN AN EASY AND FAST WAY</title>
-      <link>/news/how-to-copy-files-from-android-phone-to-pc-in-an-easy-and-fast-way/</link>
+      <link>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-copy-files-from-android-phone-to-pc-in-an-easy-and-fast-way/</link>
       <pubDate>Sun, 21 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>/news/how-to-copy-files-from-android-phone-to-pc-in-an-easy-and-fast-way/</guid>
+      <guid>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-copy-files-from-android-phone-to-pc-in-an-easy-and-fast-way/</guid>
       <description>First things first. I often need to copy substantial amount of photos from my phone. It can&amp;rsquo;t be done via Windows GUI without millions of mouse clicks or keystrokes. Here you will find a solution on how to do this in a proper way. The key tool for this will be [ADB], developer tools for Android.&#xA;Wishes: command line, batch, no file explorer, no mouse, no clickety-clack.&#xA;Sicking tired of all of these not-so-precise-instructions i&amp;rsquo;ve decided to make my own.</description>
     </item>
     <item>
       <title>HOW TO SETUP CUSTOM FONTS IN WINDOWS 7 CONSOLE</title>
-      <link>/news/how-to-setup-custom-fonts-in-windows-7-console/</link>
+      <link>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-setup-custom-fonts-in-windows-7-console/</link>
       <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>/news/how-to-setup-custom-fonts-in-windows-7-console/</guid>
+      <guid>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-setup-custom-fonts-in-windows-7-console/</guid>
       <description>As a hardcore user of [dual-panel orthodox file manager] i always suffered because of sucky look of default console fonts. Native preloaded font list has quite scarce selection, if you ask me. To fix such disappointment you&amp;rsquo;ll need:&#xA;install desired fonts by means of windows control panel copy EXACT FONT NAME fonts section in control panel paste it into registry key into following branch HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Console\TrueTypeFont note that every new subsequent font should be added by a key with added one zero to registry key name reboot computer to apply &amp;amp; enjoy!</description>
     </item>
     <item>
       <title>HOW TO FIX &#34;UNABLE TO RENDER ERROR&#34; 0x80131501 IN VEGAS PRO 21</title>
-      <link>/news/how-to-fix-unable-to-render-error-0x80131501-in-vegas-21/</link>
+      <link>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-fix-unable-to-render-error-0x80131501-in-vegas-21/</link>
       <pubDate>Mon, 27 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>/news/how-to-fix-unable-to-render-error-0x80131501-in-vegas-21/</guid>
+      <guid>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-fix-unable-to-render-error-0x80131501-in-vegas-21/</guid>
       <description>Vegas video montage software is widely known as pretty glitchy application especially if we are speaking about latest versions. Newest Vegas 21 Pro is no exception. I run into problems almost instantly. Right after i&amp;rsquo;ve decided to render video clip. Upon export attempt application showed me error:&#xA;0x80131501 How typical! To fix things up i just took DLL library [RenderAsDialog.dll, which is responsible for export dialog] from previous Vegas Pro 18 [sub-version 284 to be precise] and substituted original file with above mentioned.</description>
     </item>
     <item>
       <title>HOW TO TRANSCRIBE AUDIO SPEECH INTO TEXT USING PYTHON</title>
-      <link>/news/how-to-transcribe-audio-into-text-using-python/</link>
+      <link>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-transcribe-audio-into-text-using-python/</link>
       <pubDate>Wed, 15 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>/news/how-to-transcribe-audio-into-text-using-python/</guid>
+      <guid>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-transcribe-audio-into-text-using-python/</guid>
       <description>Recently i was asked for a simple &amp;amp; free way of transcribing audio speech into plain text. Problem was solved via Python library called [Vosk]. It is a speech recognition toolkit working in offline environment.&#xA;To make things happen do the following:&#xA;[Install vosk] pip install vosk [Download speech model] of required language, larger libraries bring just marginal improvement over the smaller ones despite the fact that they are over 40 times bigger in a size.</description>
     </item>
     <item>
       <title>HOW TO IMPROVE PERFORMANCE OF WEBSITE</title>
-      <link>/news/how-to-improve-performance-of-website/</link>
+      <link>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-improve-performance-of-website/</link>
       <pubDate>Sat, 04 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>/news/how-to-improve-performance-of-website/</guid>
+      <guid>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-improve-performance-of-website/</guid>
       <description>UPDATED ON: 2023-11-04&#xA;Nothing complex here, at least at this time. Here i&amp;rsquo;ll accumulate performance related information.&#xA;░▒▓ LAZY LOADING OF IMAGES ▓▒░ Just implemented lazy loading at my main index page. Concept is pretty simple you are loading images only when they appearing in the viewport of the browser. All you need to do is just to apply loading=&amp;ldquo;lazy&amp;rdquo; to the classes of loaded images.&#xA;&amp;lt;img loading=&amp;#34;lazy&amp;#34; src=&amp;#34;/img/demo./png&amp;#34; alt=&amp;#34;Picture&amp;#34;&amp;gt; In my case it was like this:</description>
     </item>
     <item>
       <title>HOW TO ENABLE SVG PREVIEW IN WINDOWS EXPLORER ON WINDOWS 7</title>
-      <link>/news/how-to-enable-svg-preview-in-windows-explorer-on-windows-7/</link>
+      <link>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-enable-svg-preview-in-windows-explorer-on-windows-7/</link>
       <pubDate>Fri, 03 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>/news/how-to-enable-svg-preview-in-windows-explorer-on-windows-7/</guid>
+      <guid>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-enable-svg-preview-in-windows-explorer-on-windows-7/</guid>
       <description>So, you want to be a hip and would like to have the feature of SVG preview in file explorer like in fancy windows 11 of friend of yours? It is surely possible, even on such old crone like Windows 7!&#xA;[SVG See] is an excellent application, which bring such functionality to our crony operating system.&#xA;If you are for some reason don&amp;rsquo;t observe SVG previews in explorer there are a couple of things that you could try to fix things up:</description>
     </item>
     <item>
       <title>HOW TO FIX OUT OF SYNC TIME ON OLD WINDOWS 7 INSTALLATIONS</title>
-      <link>/news/how-to-fix-out-of-sync-time-on-old-windows-7-installations/</link>
+      <link>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-fix-out-of-sync-time-on-old-windows-7-installations/</link>
       <pubDate>Sun, 08 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>/news/how-to-fix-out-of-sync-time-on-old-windows-7-installations/</guid>
+      <guid>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-fix-out-of-sync-time-on-old-windows-7-installations/</guid>
       <description>A couple of weeks ago i run into problem related to out-of sync time clock. Tried almost all imaginable solutions, like time service restarting, checking that internet time-sync option is turned on and so on and so forth. Of course to no avail at all. How typical! My Windows 7 installation dates back to early 2019 and i&amp;rsquo;ve plethora of software installed, and more over system is heavily customized so plain reinstall of operating system is not an option in my case.</description>
     </item>
     <item>
       <title>HOW TO EASILY FIX GPS ISSUES ON SONY XZ1 COMPACT SMARTPHONE</title>
-      <link>/news/how-to-easily-fix-gps-issues-on-sony-xz1-compact-smartphone/</link>
+      <link>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-easily-fix-gps-issues-on-sony-xz1-compact-smartphone/</link>
       <pubDate>Thu, 21 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>/news/how-to-easily-fix-gps-issues-on-sony-xz1-compact-smartphone/</guid>
+      <guid>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-easily-fix-gps-issues-on-sony-xz1-compact-smartphone/</guid>
       <description>As you may know [Sony Xperia XZ1 Compact] is my main web surfing phone on the go. I&amp;rsquo;m fully satisfied with it&amp;rsquo;s capabilities even in 2023. Except one little problem, related to GPS and speed of satellites detection.&#xA;Issue showed up couple of months ago and it seems that i finally found an easy way to fix it. After some investigations i conclude that device has a hardware based problem, and to eliminate it completely you need to open phone casing and pull up antenna so it will have tighter surface touching with in-case metallic plate.</description>
     </item>
     <item>
       <title>HOW TO POWER OFF OR RESTART ANDROID PHONE WITHOUT TOUCHING HARDWARE BUTTONS</title>
-      <link>/news/how-to-power-off-or-restart-android-phone-without-touching-hardware-buttons/</link>
+      <link>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-power-off-or-restart-android-phone-without-touching-hardware-buttons/</link>
       <pubDate>Tue, 05 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>/news/how-to-power-off-or-restart-android-phone-without-touching-hardware-buttons/</guid>
+      <guid>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-power-off-or-restart-android-phone-without-touching-hardware-buttons/</guid>
       <description>Say you would like to extend life cycle of your hardware power button and want to turn off/restart your device without touching mechanics. Unfortunately most of smartphones don&amp;rsquo;t offer such functionality out of the box. However there is an easy way to make things rollin&#39;.&#xA;Problem can be solved by installing [Power Menu], very small application. It is a simple tool which just works, do expected thing and moreover contains no bloat at all.</description>
     </item>
     <item>
       <title>ESSENTIAL VSCODE SHORTCUTS TO SPEED UP YOUR WORKFLOW DRAMATICALLY</title>
-      <link>/news/essential-vs-code-shortcuts-to-speed-up-your-workflow-dramatically/</link>
+      <link>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/essential-vs-code-shortcuts-to-speed-up-your-workflow-dramatically/</link>
       <pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>/news/essential-vs-code-shortcuts-to-speed-up-your-workflow-dramatically/</guid>
+      <guid>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/essential-vs-code-shortcuts-to-speed-up-your-workflow-dramatically/</guid>
       <description>UPDATED ON: 2024-04-05&#xA;Here is a small list of mandatory keystrokes, which significantly speed up working process!&#xA;NOTE! ++[KEY] ► means that you must release previously pressed keys upon pressing it&#xA;NAVIGATION&#xA;[CTRL]+[SHIFT]+[N] ► new editor instance&#xA;[CTRL]+[K]+[CTRL]+[O] ► open folder&#xA;[CTRL]+[K]++[F] ► close folder&#xA;[ALT]+[L]+[ALT]+[O] ► open in browser&#xA;[CTRL]+[W] ► close current tab&#xA;[CTRL]+[K]++[W] ► close all tabs&#xA;[ALT]+[1]/[2]/[3] ► fast-switch to diffrenet tabs&#xA;[CTRL]+[1]/[2] ► fast-switch between panels</description>
     </item>
     <item>
       <title>HOW TO COMPLETELY DISABLE TELEMETRY SERVICES WHICH DIAL BACK TO THIRD-PARTIES IN FIREFOX</title>
-      <link>/news/how-to-completely-disable-telemetry-services-which-dial-back-to-third-parties-in-firefox/</link>
+      <link>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-completely-disable-telemetry-services-which-dial-back-to-third-parties-in-firefox/</link>
       <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>/news/how-to-completely-disable-telemetry-services-which-dial-back-to-third-parties-in-firefox/</guid>
+      <guid>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-completely-disable-telemetry-services-which-dial-back-to-third-parties-in-firefox/</guid>
       <description>UPDATED ON: 2023-09-06 Some new parameters were added.&#xA;Note that by default all [Nightly versions] of Firefox are sending back telemetry to third-parties in extensive manner. So, to disable such malicious actions besides turning off telemetry settings via standard GUI options:&#xA;about:preferences#privacy You&amp;rsquo;ll need to use good old:&#xA;about:config To change to:&#xA;FALSE &amp;hellip;or create following parameters in software registry:&#xA;toolkit.telemetry.archive.enabled&#xD;toolkit.telemetry.enabled&#xD;toolkit.telemetry.unified&#xD;toolkit.telemetry.unifiedIsOptIn&#xD;toolkit.telemetry.bhrPing.enabled&#xD;toolkit.telemetry.firstShutdownPing.enabled&#xD;toolkit.telemetry.hybridContent.enabled&#xD;toolkit.telemetry.newProfilePing.enabled&#xD;toolkit.telemetry.reportingpolicy.firstRun toolkit.</description>
     </item>
     <item>
       <title>HOW TO STAY SAFE WHEN USING OB-SOUL-EEE-TEE WINDOWS 7 IN 2023?</title>
-      <link>/news/how-to-stay-safe-when-using-ob-soul-eee-tee-windows-7-in-2023-/</link>
+      <link>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-stay-safe-when-using-ob-soul-eee-tee-windows-7-in-2023-/</link>
       <pubDate>Wed, 02 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>/news/how-to-stay-safe-when-using-ob-soul-eee-tee-windows-7-in-2023-/</guid>
+      <guid>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-stay-safe-when-using-ob-soul-eee-tee-windows-7-in-2023-/</guid>
       <description>I often get asked regarding Windows 7 safety especially in 2023.&#xA;&amp;#34;Is it safe to use such old operating system?&amp;#34; &amp;#34;What about security?&amp;#34; &amp;#34;How about modern viruses?&amp;#34;&#xD;.... &amp;hellip;. and many other similar questions.&#xA;Funny thing that people who are asking about security don&amp;rsquo;t give a damn about privacy. Yeah, that&amp;rsquo;s quite different definitions for sure, but from my point of view they always come together hand in hand.&#xA;The main and the most important security police officer is your head.</description>
     </item>
     <item>
       <title>HOW TO CHANGE GUI LANGUAGE IN PHOTOSHOP TO ENGLISH</title>
-      <link>/news/how-to-change-gui-language-in-photoshop-to-english/</link>
+      <link>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-change-gui-language-in-photoshop-to-english/</link>
       <pubDate>Thu, 06 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>/news/how-to-change-gui-language-in-photoshop-to-english/</guid>
+      <guid>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-change-gui-language-in-photoshop-to-english/</guid>
       <description>&#xA;This can be done by changing application&amp;rsquo;s language locale to English. But what if you have only one non-English language in GUI preferences?&#xA;The solution is surprisingly simple.&#xA;Close Photoshop if it is already running&#xA;Find following file:&#xA;tw10428.dat Standard location:&#xA;C:\Program Files\Adobe\Adobe Photoshop YOUR-VERSION\Locales\YOUR-LANGUAGE\Support Files\ In case of Photoshop 2020 file is named:&#xA;tw10428_Photoshop_ru_RU.dat Rename it into something like: tw10428.dat.bak Ta-da! Start software and enjoy! Imagery by spacedrone808 @Adobe Imagery by spacedrone808 @Freepik </description>
     </item>
     <item>
       <title>HOW TO MINIMIZE LAPTOP POWER CONSUMPTION</title>
-      <link>/news/how-to-minimize-laptop-power-consumption/</link>
+      <link>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-minimize-laptop-power-consumption/</link>
       <pubDate>Thu, 29 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>/news/how-to-minimize-laptop-power-consumption/</guid>
+      <guid>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-minimize-laptop-power-consumption/</guid>
       <description>Say you need to run on a laptop battery vintage or simply non-demanding applications for an extremely long time. Here is a little breakdown of mandatory things to do:&#xA;turn off in BIOS unneeded devices like camera, sd-card reader, fingerprint scanner, gsm-modem, wifi, bt or whatever you are not using turn on power saving features like various C-power states turn off hyper-threading and hi-core count [if you have such ability] lower screen brightness to acceptable level check my [quick] and [comprehensive] optimization FAQs get rid of [unneeded services and bloat applications] Also you can use core parking utility [Park Control], but in this mini-guide i&amp;rsquo;ll show you how to set power related things up via internal Windows 7 tools.</description>
     </item>
     <item>
       <title>HOW TO SET PROPER COLOR FOR CURSOR AND COMMENTS IN VSCODE EDITOR</title>
-      <link>/news/how-to-set-proper-cursor-color-in-vscode/</link>
+      <link>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-set-proper-cursor-color-in-vscode/</link>
       <pubDate>Wed, 28 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>/news/how-to-set-proper-cursor-color-in-vscode/</guid>
+      <guid>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-set-proper-cursor-color-in-vscode/</guid>
       <description>UPDATED ON: 2023-12-02&#xA;The main reason i&amp;rsquo;ve decided to write this note is indistinct default color mappings and inability to solve issue simply using GUI of software.&#xA;In main configuration file:&#xA;settings.json add following lines:&#xA;&amp;#34;workbench.colorCustomizations&amp;#34;: {&#xD;&amp;#34;editorCursor.foreground&amp;#34;: &amp;#34;#ff0000&amp;#34;,&#xD;&amp;#34;terminalCursor.foreground&amp;#34;: &amp;#34;#02ED3D&amp;#34;,&#xD;&amp;#34;editorLineNumber.activeForeground&amp;#34;: &amp;#34;#ff0000&amp;#34;,&#xD;&amp;#34;editor.lineHighlightBackground&amp;#34;: &amp;#34;#016119&amp;#34;,&#xD;&amp;#34;editor.lineHighlightBorder&amp;#34;: &amp;#34;#02ED3D&amp;#34;,&#xD;&amp;#34;terminal.foreground&amp;#34;: &amp;#34;#02ed3d&amp;#34; }, To set custom color for GREY comments drop in these lines:&#xA;&amp;#34;editor.tokenColorCustomizations&amp;#34;: {&#xD;&amp;#34;conmments&amp;#34;: &amp;#34;#ff006f&amp;#34;&#xD;} To fast access configuration file press:</description>
     </item>
     <item>
       <title>HOW TO RUN LATEST VS CODE IN WINDOWS 7 X64</title>
-      <link>/news/how-to-run-latest-vs-code-in-windows-7-x64/</link>
+      <link>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-run-latest-vs-code-in-windows-7-x64/</link>
       <pubDate>Sat, 24 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>/news/how-to-run-latest-vs-code-in-windows-7-x64/</guid>
+      <guid>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-run-latest-vs-code-in-windows-7-x64/</guid>
       <description>UPDATED ON: 2024-07-05 v1.81.1 is a more recent version, which can be executed without any efforts v1.89 is a hacked [FINAL version] for Windows 7 x64 So, Windows 7 users are pretty safe at this point despite artificial restrictions of big corps.&#xA;Usually i&amp;rsquo;m not feeling so delightful regarding microsoft modern programs, but this one is pretty good. And of course they tried to artificially cripple it under &amp;ldquo;obsolete&amp;rdquo; Windows 7.</description>
     </item>
     <item>
       <title>HOW TO PLAY CLASSIC FALLOUT 2 TO GET THE MOST OUT OF IT IN 2023?</title>
-      <link>/news/how-to-play-classic-fallout-2-to-get-the-most-out-of-it-in-2023/</link>
+      <link>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-play-classic-fallout-2-to-get-the-most-out-of-it-in-2023/</link>
       <pubDate>Sat, 17 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>/news/how-to-play-classic-fallout-2-to-get-the-most-out-of-it-in-2023/</guid>
+      <guid>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-play-classic-fallout-2-to-get-the-most-out-of-it-in-2023/</guid>
       <description>So you want to do a deep dive into the best RPG game of all time and don&amp;rsquo;t know how do it in a right way in 2023? You&amp;rsquo;ve come to the right place, coz unlisted slacker knows precisely what you need to do in the first place.&#xA;Here is a breakdown list of what you need to do to run Fallout 2 buttery smooth:&#xA;grab original [Fallout 2] distribution from GOG [latest version 2.</description>
     </item>
     <item>
       <title>HOW TO RUN 16-BIT APPLICATIONS IN WINDOWS 7 X64</title>
-      <link>/news/how-to-run-16-bit-applications-in-windows-7-x64/</link>
+      <link>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-run-16-bit-applications-in-windows-7-x64/</link>
       <pubDate>Fri, 07 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>/news/how-to-run-16-bit-applications-in-windows-7-x64/</guid>
+      <guid>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-run-16-bit-applications-in-windows-7-x64/</guid>
       <description>As you may already know, there is no official ability to execute old 16-bit software in 64-bit operating systems. So if you have favorite Windows 3.x applications such stupid restriction was a complete bummer. But only until today! At least for me. WinVDM will resolve your frustration.&#xA;For providing such valuable information thanks goes out to [NeonFloppy website].&#xA;► WINVDM @ GITHUB&#xA;Unpack archive anywhere, execute INSTALL with admin privileges and you are good to go After installation working state could be checked by [Windows 3.</description>
     </item>
     <item>
       <title>HOW TO FLASH ROOTED ANDROID 8 ON SONY XPERIA XZ1 COMPACT IN WINDOWS 7 ENVIRONMENT</title>
-      <link>/news/how-to-flash-rooted-android-8-on-sony-xperia-xz1-compact-in-windows-7-environment/</link>
+      <link>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-flash-rooted-android-8-on-sony-xperia-xz1-compact-in-windows-7-environment/</link>
       <pubDate>Wed, 05 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>/news/how-to-flash-rooted-android-8-on-sony-xperia-xz1-compact-in-windows-7-environment/</guid>
+      <guid>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-flash-rooted-android-8-on-sony-xperia-xz1-compact-in-windows-7-environment/</guid>
       <description>UPDATED ON: 2023-04-20 Important update, substantial refactoring, many errors fixed&#xA;▒ PREFACE WORDS Following instruction is dedicated to flashing stock Android 8.0 firmware for Russian region, but almost all information can be applied to USA or any other region firmware. So, no restrictions here.&#xA;Remember that all commands and programs should be executed with admin privileges and your account must have administrator rights! If something goes wrong for some reason be sure to check [TROUBLESHOOTING] section!</description>
     </item>
     <item>
       <title>HOW TO EXPAND LIST OF SUPPORTED ADDONS IN ANDROID FIREFOX</title>
-      <link>/news/how-to-expand-list-of-supported-addons-in-android-firefox/</link>
+      <link>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-expand-list-of-supported-addons-in-android-firefox/</link>
       <pubDate>Thu, 16 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>/news/how-to-expand-list-of-supported-addons-in-android-firefox/</guid>
+      <guid>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-expand-list-of-supported-addons-in-android-firefox/</guid>
       <description>UPDATED ON: 2023-08-31&#xA;Not long ago i&amp;rsquo;ve already mentioned about privacy-hardened [Mull browser]. Very nice Android browser, but have one serious downside: limited amount of supported addons. Yes, i like desktop convenience on the go!&#xA;To enable additional addons in mobile Firefox browser you&amp;rsquo;ll need to sideload custom addon collection tied to mozilla account. It&amp;rsquo;s astonishing fact how they like to implement overcomplicated stuff!&#xA;To create your own collection you&amp;rsquo;ll need Firefox account, but i&amp;rsquo;ll not bother to spent time on such dumb efforts.</description>
     </item>
     <item>
       <title>HOW TO RUN OBS STUDIO V29 IN WINDOWS 7</title>
-      <link>/news/how-to-run-obs-studio-29-in-windows-7/</link>
+      <link>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-run-obs-studio-29-in-windows-7/</link>
       <pubDate>Fri, 17 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>/news/how-to-run-obs-studio-29-in-windows-7/</guid>
+      <guid>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-run-obs-studio-29-in-windows-7/</guid>
       <description>I&amp;rsquo;ll keep post updated if any changes happen.&#xA;Recently last officially supported version was [27.4.2]. But from now on we can use actual version of software.&#xA;Here is small instruction list on how to make things rollin&amp;rsquo; under mighty Windows 7:&#xA;Obtain hacked [QT 6.3.1 DLLs for Windows 7] ||| [Mirror] [QT6 is not officially supported] Download [CFF Explorer][direct link] for basic resource hackery Obviously grab latest zipped archive [OBS Studio 29.</description>
     </item>
     <item>
       <title>HOW TO BRING BACK CLASSIC SQUARE TABS IN RECENT FIREFOX</title>
-      <link>/news/how-to-bring-back-square-tabs-in-firefox/</link>
+      <link>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-bring-back-square-tabs-in-firefox/</link>
       <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>/news/how-to-bring-back-square-tabs-in-firefox/</guid>
+      <guid>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-bring-back-square-tabs-in-firefox/</guid>
       <description>Tired of round shaped chrome-like tabs?&#xA;These tweaks attempt to recreate the feel of Quantum with its squared tabs and menus, but in the Proton UI. As of FF91, the about:config option to disable proton has been deprecated, leaving CSS as the main way to revert the UI.&#xA;Want to bring back minimalistic strict lines and make things more serious?&#xA;[Firefox-Proton-Square] tweak will help ya.&#xA;INSTALLATION PROCESS&#xA;Enable userChrome.css support Go to about:config toolkit.</description>
     </item>
     <item>
       <title>HOW TO MAKE TEXT INDENT IN HUGO FRAMEWORK VIA CSS</title>
-      <link>/news/how-to-make-text-indent-in-hugo-framework-via-css/</link>
+      <link>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-make-text-indent-in-hugo-framework-via-css/</link>
       <pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>/news/how-to-make-text-indent-in-hugo-framework-via-css/</guid>
+      <guid>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-make-text-indent-in-hugo-framework-via-css/</guid>
       <description>&#xA;Locate your style.css&#xA;NAME-OF-THE-PROJECT\themes\NAME-OF-THEME\assets\css\style.css Add following code to apply 30px indentation.&#xA;p {&#xD;text-indent: 30px;&#xD;} For no indentation:&#xA;p {&#xD;text-indent: 0px;&#xD;} or just remove the whole block of p code.&#xA;Imagery by spacedrone808 @Adobe Imagery by spacedrone808 @Freepik </description>
     </item>
     <item>
       <title>EXIFTOOL ▀ HOW TO FAST TAG GRAPHICS FILES WITH PERSONAL METADATA</title>
-      <link>/news/exif-tool-how-to-fast-tag-graphics-files-with-personal-meta-data/</link>
+      <link>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/exif-tool-how-to-fast-tag-graphics-files-with-personal-meta-data/</link>
       <pubDate>Sun, 20 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>/news/exif-tool-how-to-fast-tag-graphics-files-with-personal-meta-data/</guid>
+      <guid>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/exif-tool-how-to-fast-tag-graphics-files-with-personal-meta-data/</guid>
       <description>&#xA;[Exiftool] is a convenient command line tool, which allows to change meta data of media files, like photos and pictures. You can download it [here].&#xA;CLEARING IPTC/EXIF METADATA IN ALL EXISTING FILES&#xA;c:\exiftool.exe -overwrite_original -all= C:\PATH-TO-YOUR_FOLDER&#xD;exit CHANGING/OVERWRITING TAG METADATA IN APPOINTED FOLDER&#xA;c:\exiftool.exe -overwrite_original -XMP-iptcCore:CreatorWorkEmail=&amp;#34;YOUR EMAIL ADDRESS&amp;#34; -XMP-iptcCore:CreatorWorkURL=&amp;#34;YOUR WEBSITE&amp;#34; -artist=&amp;#34;YOUR NAME&amp;#34; -copyright=&amp;#34;YOUR COPYRIGHT&amp;#34; -Credit=&amp;#34;YOUR NAME&amp;#34; -Source=&amp;#34;YOUR NAME&amp;#34; -sep &amp;#34;, &amp;#34; -keywords=&amp;#34;background, backdrop, postcard, design, element, wallpaper, dramatic, concept, decoration, scene, vivid, vibrant, travel, trip&amp;#34; C:\FOLDER-TO-PROCESS&#xD;exit Imagery by spacedrone808 @Adobe Imagery by spacedrone808 @Freepik </description>
     </item>
     <item>
       <title>HOW TO RUN AFFINITY PHOTO USING CLASSIC WINDOWS 7 INTERFACE WITHOUT AERO ENABLED</title>
-      <link>/news/how-to-run-affinity-photo-using-classic-windows-7-interface-without-aero-enabled/</link>
+      <link>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-run-affinity-photo-using-classic-windows-7-interface-without-aero-enabled/</link>
       <pubDate>Sat, 22 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>/news/how-to-run-affinity-photo-using-classic-windows-7-interface-without-aero-enabled/</guid>
+      <guid>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-run-affinity-photo-using-classic-windows-7-interface-without-aero-enabled/</guid>
       <description>&#xA;By default software forbids execution when you are using classic desktop and aero is not enabled.&#xA;However, there is a nice workaround. By adding &amp;ndash;no-dwm-warning switch to starting shortcut you can avoid internal restriction.&#xA;&amp;#34;C:\Program Files\Affinity\Photo\Photo.exe&amp;#34; --no-dwm-warning NOTE: with some graphical drivers you may experience visual artifacts and not so precise image rendering.&#xA;Imagery by spacedrone808 @Adobe Imagery by spacedrone808 @Freepik </description>
     </item>
     <item>
       <title>HOW TO GET RID OF ANNOYING NIK COLLECTION UPDATE NOTIFICATION</title>
-      <link>/news/how-to-get-rid-of-annoying-nik-collection-update-notification/</link>
+      <link>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-get-rid-of-annoying-nik-collection-update-notification/</link>
       <pubDate>Thu, 28 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>/news/how-to-get-rid-of-annoying-nik-collection-update-notification/</guid>
+      <guid>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-get-rid-of-annoying-nik-collection-update-notification/</guid>
       <description>[Nik Collection] is a great graphical effects plugin pack to work with your favorite raster editor [mine is [Affinity Photo] in case you are interested]. Everything is fine, except annoying update popup, which is opening right after every plugin initialization. Such stuff completely breaks workflow if you don&amp;rsquo;t want to update for some reason. And there is no way to turn it off from GUI using normal methods.&#xA;However, you can shut update checks off from configuration file, which is located here:</description>
     </item>
     <item>
       <title>HOW TO REMOVE ANNOYING CONFIRMATION WINDOW WHEN COPYING FILES FROM PUTER TO CELLPHONE OVER DUMB MTP PROTOCOL</title>
-      <link>/news/how-to-remove-annoying-confirmation-window-when-copying-files-from-puter-to-cellphone-via-mtp/</link>
+      <link>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-remove-annoying-confirmation-window-when-copying-files-from-puter-to-cellphone-via-mtp/</link>
       <pubDate>Thu, 23 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>/news/how-to-remove-annoying-confirmation-window-when-copying-files-from-puter-to-cellphone-via-mtp/</guid>
+      <guid>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-remove-annoying-confirmation-window-when-copying-files-from-puter-to-cellphone-via-mtp/</guid>
       <description>Of course you run into situations when you would like to copy &amp;ldquo;non-standard&amp;rdquo; files to your Android smartphone and dumb MTP protocol showed up window like this one:&#xA;And this torture repeated after every new file type copied. Such imbecility can be removed by following command in admin console:&#xA;regsvr32 /u wpdshext.dll That&amp;rsquo;s all, limitation is gone.&#xA;Another hint, which potentially can help to overcome weird design of MTP protocol.</description>
     </item>
     <item>
       <title>HOW TO OPEN LINKS IN A NEW TAB IN MAINROAD HUGO THEME</title>
-      <link>/news/how-to-open-links-in-a-new-tab-in-mainroad-hugo-theme/</link>
+      <link>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-open-links-in-a-new-tab-in-mainroad-hugo-theme/</link>
       <pubDate>Sun, 12 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>/news/how-to-open-links-in-a-new-tab-in-mainroad-hugo-theme/</guid>
+      <guid>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-open-links-in-a-new-tab-in-mainroad-hugo-theme/</guid>
       <description>I bet that many of you would like to open site links not in the same window, but in a background tab. Such behavior is restricted by default settings of most Hugo themes. Mainroad is restricting it also. Here is a solution on how to overcome weird limitation.&#xA;Create file render-link.html in _default folder of the theme. Name_of_your_site\themes\mainroad\layouts\_default\_markup\render-link.html Contents of render-link.html should be like this:&#xA;&amp;lt;a href=&amp;#34;{{ .Destination | safeURL }}&amp;#34;{{ with .</description>
     </item>
     <item>
       <title>HOW TO ENABLE HTML CODE IN MARKDOWN FILES</title>
-      <link>/news/how-to-enable-html-code-in-markdown-files/</link>
+      <link>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-enable-html-code-in-markdown-files/</link>
       <pubDate>Mon, 23 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>/news/how-to-enable-html-code-in-markdown-files/</guid>
+      <guid>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-enable-html-code-in-markdown-files/</guid>
       <description>&lt;br&gt;&#xD;&#xA;&lt;p&gt;Trick is very simple, if you know where to dig.&#xA;Just find &lt;strong&gt;config.toml&lt;/strong&gt; file of your Hugo theme and add following section.&lt;/p&gt;</description>
     </item>
     <item>
       <title>HOW TO REPAIR BROKEN WINDOWS 7</title>
-      <link>/news/how-to-repair-broken-windows-7/</link>
+      <link>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-repair-broken-windows-7/</link>
       <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>/news/how-to-repair-broken-windows-7/</guid>
+      <guid>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/how-to-repair-broken-windows-7/</guid>
       <description>To check system hard drive and fix errors:&#xA;chkdsk c: /f To check system hard drive, fix errors, locate and mark bad sectors:&#xA;chkdsk c: /r Very basic command to check integrity of system files:&#xA;sfc /scannow If sfc can&amp;rsquo;t help you try DISM.&#xA;Check system health for any corruption presence:&#xA;Dism /Online /Cleanup-Image /CheckHealth Check system health for store corruption presence:&#xA;Dism /Online /Cleanup-Image /ScanHealth Finally, repair command:</description>
     </item>
   </channel>

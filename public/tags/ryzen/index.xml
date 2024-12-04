@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ryzen on Hugo Hacker Theme</title>
-    <link>/tags/ryzen/</link>
+    <link>https://spacedrone404.github.io/hugo-hacker-testbed-template/tags/ryzen/</link>
     <description>Recent content in Ryzen on Hugo Hacker Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 30 Sep 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/ryzen/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://spacedrone404.github.io/hugo-hacker-testbed-template/tags/ryzen/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>1950X / 5950X / 7950X ▀ SUPER MEGA RETROSPECTIVE WINDOWS 7 BENCHMARK</title>
-      <link>/news/1950x-5950x-7950x-super-mega-retrospective-windows-7-benchmark/</link>
+      <link>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/1950x-5950x-7950x-super-mega-retrospective-windows-7-benchmark/</link>
       <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>/news/1950x-5950x-7950x-super-mega-retrospective-windows-7-benchmark/</guid>
+      <guid>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/1950x-5950x-7950x-super-mega-retrospective-windows-7-benchmark/</guid>
       <description>¶ INTRO WORDS Numbers, numbers, numbers &amp;hellip; i say NUMBERS!!!!&#xA;It&amp;rsquo;s been a while since i ran into the craze of pointless benchmarks. And now I&amp;rsquo;m back with the absolute procrastination stuff. Are you happy with this?&#xA;Take a note that 3DMark 03, 3DMark 05, 3DMark 06, 3DMark Vantage [2007], 3DMark 2011 and 3DMark 2021 are not marked by ▒ sign, showing the fact that these programs lost the soul of demoscene and just providing comparison numbers, nothing else.</description>
     </item>
     <item>
       <title>A QUICK NOTE ON THE RYZEN 7700 ADOPTION PROCESS</title>
-      <link>/news/a-quick-note-on-the-ryzen-7700-adoption-process/</link>
+      <link>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/a-quick-note-on-the-ryzen-7700-adoption-process/</link>
       <pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>/news/a-quick-note-on-the-ryzen-7700-adoption-process/</guid>
+      <guid>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/a-quick-note-on-the-ryzen-7700-adoption-process/</guid>
       <description>Initially, I decided to install Windows Server 2008 R2, attracted by the opportunity to have a server-class operating system with increased I/O throughput in the works. But almost immediately i ran into compatibility problems [no surprise here] with my existing software. Some programs refuse to run because of artificial restrictions [you know licensing mambo-jambo stuff], some of which depend on components that are not present in Windows Server. It&amp;rsquo;s sort of possible to work, but you almost always run into little glitches here and there, even after converting it to a [workstation].</description>
     </item>
     <item>
       <title>64-CORES/128-THREADS THREADRIPPER 3995WX WORKSTATION GRADE CPU CONFIRMED TO WORK IN WINDOWS 7</title>
-      <link>/news/64-core-128-thread-threadripper-3995wx-confirmed-to-work-in-windows-7/</link>
+      <link>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/64-core-128-thread-threadripper-3995wx-confirmed-to-work-in-windows-7/</link>
       <pubDate>Wed, 30 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>/news/64-core-128-thread-threadripper-3995wx-confirmed-to-work-in-windows-7/</guid>
+      <guid>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/64-core-128-thread-threadripper-3995wx-confirmed-to-work-in-windows-7/</guid>
       <description>Well known Chinese driver modder [Canonkong] confirmed that [64-cores/128-threads Threadripper 3995WX] based upon sWRX8 chipset works flawlessly in Windows 7 environment. Considering the news it looks like that more recent [5995WX] will also work without any issues. So, we have plenty of headroom in terms of system performance. As for me, i have no need to switch to &amp;ldquo;recent operating systems&amp;rdquo; like Windows 10/11.&#xA;Here is brief [confirmation] from the WinRaid forum:</description>
     </item>
     <item>
       <title>1950X / 3100 / 5950X / RADEON VII / 6900XT ▀ WINDOWS 7 MEGA BENCHMARK</title>
-      <link>/news/1950x-3100-5950x-radeon-vii-radeon-6900xt-windows-7-super-mega-benchmark/</link>
+      <link>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/1950x-3100-5950x-radeon-vii-radeon-6900xt-windows-7-super-mega-benchmark/</link>
       <pubDate>Sun, 13 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>/news/1950x-3100-5950x-radeon-vii-radeon-6900xt-windows-7-super-mega-benchmark/</guid>
+      <guid>https://spacedrone404.github.io/hugo-hacker-testbed-template/news/1950x-3100-5950x-radeon-vii-radeon-6900xt-windows-7-super-mega-benchmark/</guid>
       <description>¶ PREFACE NOTE Finally i have won the battle with my laziness and forced myself to complete this so looooooooongish project. Enjoy!&#xA;PS: 3DMark 03, 3DMark 05, 3DMark 06, 3DMark Vantage [2007], 3DMark 2011 and 3DMark 2021 are not marked by ▒ sign, showing the fact that these programs lost the soul of demoscene and just providing comparison numbers, nothing else.&#xA;█ COMPUTER CONFIGURATIONS CPUs: Threadripper 1 1950X / Ryzen 9 5950X / Ryzen 3 3100 GPUs: Radeon VII 16Gb / Radeon 6900XT 16Gb GFX SETTINGS: 2560x1600 32Bit color [where possible], ULTRA+ settings, Anti-aliasing is turned OFF COMPUTER TESTBEDS: [1] ► Threadripper 1950X / Asrock Taichi X399M / 64Gb DDR4 2667@2800Mhz / Radeon VII 16Gb [2] ► Threadripper 1950X / Asrock Taichi X399M / 64Gb DDR4 2667@2800Mhz / Radeon 6900XT 16Gb [3] ► Ryzen 3 3100 @3.</description>
     </item>
   </channel>
