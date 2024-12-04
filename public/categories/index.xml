@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Hugo Hacker Theme</title>
+    <link>/categories/</link>
+    <description>Recent content in Categories on Hugo Hacker Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 30 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FAQ</title>
+      <link>/categories/faq/</link>
+      <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>/categories/faq/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Internet</title>
+      <link>/categories/internet/</link>
+      <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>/categories/internet/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Software</title>
+      <link>/categories/software/</link>
+      <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>/categories/software/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Technology</title>
+      <link>/categories/technology/</link>
+      <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>/categories/technology/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Benchmarks</title>
+      <link>/categories/benchmarks/</link>
+      <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>/categories/benchmarks/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hardware</title>
+      <link>/categories/hardware/</link>
+      <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>/categories/hardware/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Reviews</title>
+      <link>/categories/reviews/</link>
+      <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>/categories/reviews/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Windows 7</title>
+      <link>/categories/windows-7/</link>
+      <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>/categories/windows-7/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Humour</title>
+      <link>/categories/humour/</link>
+      <pubDate>Wed, 25 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>/categories/humour/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lists</title>
+      <link>/categories/lists/</link>
+      <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>/categories/lists/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rant</title>
+      <link>/categories/rant/</link>
+      <pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>/categories/rant/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vintage</title>
+      <link>/categories/vintage/</link>
+      <pubDate>Tue, 20 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>/categories/vintage/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Security</title>
+      <link>/categories/security/</link>
+      <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>/categories/security/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Android 8</title>
+      <link>/categories/android-8/</link>
+      <pubDate>Sun, 21 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>/categories/android-8/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Webdev</title>
+      <link>/categories/webdev/</link>
+      <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>/categories/webdev/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hacks</title>
+      <link>/categories/hacks/</link>
+      <pubDate>Mon, 27 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>/categories/hacks/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tweaks</title>
+      <link>/categories/tweaks/</link>
+      <pubDate>Mon, 27 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>/categories/tweaks/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Art</title>
+      <link>/categories/art/</link>
+      <pubDate>Sat, 28 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>/categories/art/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Movies</title>
+      <link>/categories/movies/</link>
+      <pubDate>Sat, 28 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>/categories/movies/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Music</title>
+      <link>/categories/music/</link>
+      <pubDate>Tue, 08 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>/categories/music/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Privacy</title>
+      <link>/categories/privacy/</link>
+      <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>/categories/privacy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Games</title>
+      <link>/categories/games/</link>
+      <pubDate>Sat, 17 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>/categories/games/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

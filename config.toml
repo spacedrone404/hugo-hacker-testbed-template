@@ -1,0 +1,306 @@
+
+#LAST MODIFICATION DATE: 2024/11/22
+
+languageCode = "en"
+title = "Hugo Hacker Theme"
+theme = "mainroad"
+paginate = 14
+BaseURL = ""
+DefaultContentLanguage = "en"
+disableHugoGeneratorInject = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true  # Enable html code inside markdown files
+
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.121"
+
+[Params]
+  description = "Hugo Hacker Theme" # Site description. Used in meta description
+  copyright = "Hugo Hacker Theme" # Footer copyright holder, otherwise will use site title
+  schema = true # Enable Schema
+  readmore = true # Show "Read more" button in list if true
+  authorbox = false # Show authorbox at bottom of pages if true
+  toc = true # Enable Table of Contents
+  pager = true # Show pager navigation (prev/next links) at the bottom of pages if true
+  post_meta = ["date", "categories", "translations"] # Order of post meta information
+  # mainSections = ["post", "welcome", "blog", "news"] # Specify section pages to show on home page and the "Recent articles" widget
+  mainSections = ["news"] # Specify section pages to show on home page and the "Recent articles" widget
+  dateformat = "2006-01-02" # Change the format of dates
+
+[Params.style.vars]
+  highlightColor = "#025ff0" # Override highlight color
+  #Override font-family sets. Secondary font-family set responsible for pre, code, kbd, and samp tags font
+  #Take care of different quotes OR escaping symbols in these params if necessary
+  fontFamilyPrimary = "'Open Sans', Helvetica, Arial, sans-serif"
+  fontFamilySecondary = "SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace"
+  #fontFamilyPrimary = "'Open Sans', Helvetica, Arial, sans-serif"
+  #fontFamilySecondary = "SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace"
+
+[Params.logo]
+  image = "img/header.jpg"
+  # image = "img/logo/logo.jpg" # Logo image. Path relative to "static"
+  # title = "Hugo Hacker Theme" # Logo title, otherwise will use site title
+  # subtitle = "Hugo Hacker Theme Subtitle" # Logo subtitle
+
+[Author] # Used in authorbox
+  name = "Blogging writer"
+  bio = "Passionate news person"
+  avatar = "img/author.png"
+
+[Params.sidebar] 
+  # home = "right" # Configure layout for home page
+  list = "right"  # Configure layout for list pages
+  single = "false" # Configure layout for single pages
+  # Enable widgets in given order
+  widgets = ["recent", "categories", "taglist"]
+
+[Params.widgets]
+ recent_num = 8 # Set the number of articles in the "Recent articles" widget
+ categories_counter = true # Enable counter for each category in "Categories" widget
+ tags_counter = false # Enable counter for each tag in "Tags" widget
+
+[Params.widgets.social]
+  # Enable parts of social widget
+  #instagram = "" 
+  #email = ""
+
+[[Params.widgets.social.custom]]
+  title = ""
+  url = ""
+
+[privacy]
+	[privacy.disqus]
+	disable = true
+	[privacy.googleAnalytics]
+	disable = true
+	[privacy.instagram]
+	disable = true
+	[privacy.twitter]
+	disable = true
+	[privacy.vimeo]
+	disable = true
+	[privacy.youtube]
+	disable = false
+	privacyEnhanced = true
+
+# DefaultContentLanguageInSubdir = "true"
+
+# [params.navigation]
+# help = "Help"
+
+# [languages]            
+#	[languages.de]
+#	 title = "JSC COMPANY"
+#	 languageName = "eng"
+#	 contentDir = "content-de/"
+#	 weight = 1
+#       		[languages.ru.params]
+#			linkedin="http://localhost:1313"
+#	[languages.en]
+#	 title = "JSC COMPANY"
+#	 languageName = "de"
+#	 contentDir = "content-en/"
+#	 weight = 2
+		
+#	       		[languages.en.params]
+#			linkedin="http://localhost:1313/en"
+
+
+# Header dropdown menus
+  
+
+   [[languages.en.menu.main]]
+    identifier = "about-industry"
+    name = "ABOUT US"
+    url = "/menu/main/corporation"
+    weight = 1
+
+  [[languages.en.menu.main]]
+    identifier = "history"
+    name = "HISTORY"
+    url = "/menu/history"
+    parent = "about-industry"
+    weight = 2
+
+  [[languages.en.menu.main]]
+    identifier = "heads"
+    name = "CEO HEADS"
+    url = "/menu/heads"
+    parent = "about-industry"
+    weight = 4
+
+  [[languages.en.menu.main]]
+    identifier = "rewards"
+    name = "REWARDS"
+    url = "/menu/rewards"
+    parent = "about-industry"
+    weight = 7
+
+  [[languages.en.menu.main]]
+    identifier = "rewards"
+    name = "!TECH INFO"
+    url = "/menu/n808"
+    parent = "about-industry"
+    weight = 8
+
+
+  [[languages.en.menu.main]]
+    identifier = "info"
+    name = "INFORMATION"
+    url = "/menu/main/info"
+    weight = 3
+
+  [[languages.en.menu.main]]
+    identifier = "news"
+    name = "NEWS FEED"
+    url = "/"
+    parent = "info"
+    weight = 1
+
+  [[languages.en.menu.main]]
+    identifier = "events"
+    name = "EVENTS"
+    url = "/menu/events"
+    parent = "info"
+    weight = 2
+
+  [[languages.en.menu.main]]
+    identifier = "press"
+    name = "PRESS"
+    url = "/menu/press"
+    parent = "info"
+    weight = 3
+
+  [[languages.en.menu.main]]
+    identifier = "gallery"
+    name = "PHOTO GALLERY"
+    url = "/menu/gallery"
+    parent = "info"
+    weight = 4
+
+  [[languages.en.menu.main]]
+    identifier = "activities"
+    name = "PRODUCTS"
+    url = "/menu/main/production"
+    weight = 2
+
+  [[languages.en.menu.main]]
+    identifier = "product1"
+    name = "PRODUCT 1"
+    url = "/menu/product1"
+    parent = "activities"
+    weight = 1
+
+  [[languages.en.menu.main]]
+    identifier = "product2"
+    name = "PRODUCT 2"
+    url = "/menu/product2"
+    parent = "activities"
+    weight = 2
+
+  [[languages.en.menu.main]]
+    identifier = "product3"
+    name = "PRODUCT 3"
+    url = "/menu/product3"
+    parent = "activities"
+    weight = 3
+ 
+  [[languages.en.menu.main]]
+    identifier = "product4"
+    name = "PRODUCT 4"
+    url = "/menu/product4"
+    parent = "activities"
+    weight = 4
+
+  [[languages.ru.menu.main]]
+    identifier = "product5"
+    name = "PRODUCT 5"
+    url = "/menu/product5"
+    parent = "activities"
+    weight = 5
+
+  [[languages.en.menu.main]]
+    identifier = "documents"
+    name = "DOCUMENTS"
+    url = "/menu/main/documents"
+    weight = 5
+
+  [[languages.en.menu.main]]
+    identifier = "quality"
+    name = "QUALITY ASSURANCE"
+    url = "/menu/quality"
+    parent = "documents"
+    weight = 2
+
+  [[languages.en.menu.main]]
+    identifier = "privacy"
+    name = "PRIVACY POLICY"
+    url = "/menu/privacy"
+    parent = "documents"
+    weight = 6
+
+  [[languages.en.menu.main]]
+    identifier = "purchase"
+    name = "PURCHASE"
+    url = "/menu/purchase"
+    parent = "documents"
+    weight = 4
+
+   [[languages.en.menu.main]]
+    identifier = "corruption"
+    name = "SECURITY POLICY"
+    url = "/menu/corruption"
+    parent = "documents"
+    weight = 5
+
+ [[languages.en.menu.main]]
+    identifier = "personal"
+    name = "STUFF"
+    url = "/menu/main/personal"
+    weight = 4
+
+  [[languages.en.menu.main]]
+    identifier = "benefits"
+    name = "MAIN BENEFITS"
+    url = "/menu/benefits"
+    parent = "personal"
+    weight = 2
+
+  [[languages.en.menu.main]]
+    identifier = "social"
+    name = "SOCIAL POLICY"
+    url = "/menu/social"
+    parent = "personal"
+    weight = 3
+
+  [[languages.en.menu.main]]
+    identifier = "sport"
+    name = "SPORT ACTIVITIES"
+    url = "/menu/sport"
+    parent = "personal"
+    weight = 5
+
+  [[languages.en.menu.main]]
+    identifier = "selection"
+    name = "SELECTION"
+    url = "/menu/selection"
+    parent = "personal"
+    weight = 3
+
+  [[languages.en.menu.main]]
+    identifier = "vacancies"
+    name = "ACTIVE VACANCIES"
+    url = "/menu/vacancies"
+    parent = "personal"
+    weight = 4
+
+ [[languages.en.menu.main]]
+    identifier = "contacts"
+    name = "Contacts"
+    url = "/menu/contacts"
+    weight = 8

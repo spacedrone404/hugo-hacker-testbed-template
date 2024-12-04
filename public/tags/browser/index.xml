@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Browser on Hugo Hacker Theme</title>
+    <link>/tags/browser/</link>
+    <description>Recent content in Browser on Hugo Hacker Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 08 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/browser/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HOW TO EXPORT FIREFOX BOOKMARKS AND OPEN LOCALLY PLACED HTML FILES ON ANDROID</title>
+      <link>/news/how-to-export-firefox-bookmarks-and-open-locally-placed-html-files-on-android/</link>
+      <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>/news/how-to-export-firefox-bookmarks-and-open-locally-placed-html-files-on-android/</guid>
+      <description>You might think that it is kinda ridiculous title, but read on to find out.&#xA;First of all you have to understand that i&amp;rsquo;m not going to share my personal bookmarks with some ugly copro that cloaks itself under the umbrella of free software ideas and use their lame anti-private sync. And i&amp;rsquo;m certainly not going to use any web service provided by these companies in any case.&#xA;Of course we won&amp;rsquo;t skip that generic rant part about how dumb project managers are for not implementing essential features like bookmark export or the ability to open local HTML files in 2024.</description>
+    </item>
+    <item>
+      <title>HOW TO COMPLETELY DISABLE TELEMETRY SERVICES WHICH DIAL BACK TO THIRD-PARTIES IN FIREFOX</title>
+      <link>/news/how-to-completely-disable-telemetry-services-which-dial-back-to-third-parties-in-firefox/</link>
+      <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>/news/how-to-completely-disable-telemetry-services-which-dial-back-to-third-parties-in-firefox/</guid>
+      <description>UPDATED ON: 2023-09-06 Some new parameters were added.&#xA;Note that by default all [Nightly versions] of Firefox are sending back telemetry to third-parties in extensive manner. So, to disable such malicious actions besides turning off telemetry settings via standard GUI options:&#xA;about:preferences#privacy You&amp;rsquo;ll need to use good old:&#xA;about:config To change to:&#xA;FALSE &amp;hellip;or create following parameters in software registry:&#xA;toolkit.telemetry.archive.enabled&#xD;toolkit.telemetry.enabled&#xD;toolkit.telemetry.unified&#xD;toolkit.telemetry.unifiedIsOptIn&#xD;toolkit.telemetry.bhrPing.enabled&#xD;toolkit.telemetry.firstShutdownPing.enabled&#xD;toolkit.telemetry.hybridContent.enabled&#xD;toolkit.telemetry.newProfilePing.enabled&#xD;toolkit.telemetry.reportingpolicy.firstRun toolkit.</description>
+    </item>
+  </channel>
+</rss>

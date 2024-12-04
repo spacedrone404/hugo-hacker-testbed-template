@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Windows7 on Hugo Hacker Theme</title>
+    <link>/tags/windows7/</link>
+    <description>Recent content in Windows7 on Hugo Hacker Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 30 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/windows7/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HOW TO SETUP REMOTE ACCESS TO FOOBAR 2000 MUSIC PLAYER</title>
+      <link>/news/how-to-setup-remote-access-to-foobar-2000-music-player/</link>
+      <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>/news/how-to-setup-remote-access-to-foobar-2000-music-player/</guid>
+      <description>Most of you have favorite PC audio player of their own, in my case it is [Foobar2000]. In Android 6 times there was a wonderful software called [Foobar 2000 Controller]. It was made to control audio player remotely from your smartphone in a convenient way. For some reason i recall it today and decided to record installing process for future use.&#xA;Guys from [Hydrogen Audio] forum helped me out in some questions and pointed me to the right direction.</description>
+    </item>
+  </channel>
+</rss>

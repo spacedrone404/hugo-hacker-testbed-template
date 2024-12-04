@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MTP on Hugo Hacker Theme</title>
+    <link>/tags/mtp/</link>
+    <description>Recent content in MTP on Hugo Hacker Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 21 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/mtp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HOW TO COPY FILES FROM ANDROID PHONE TO PC IN AN EASY AND FAST WAY</title>
+      <link>/news/how-to-copy-files-from-android-phone-to-pc-in-an-easy-and-fast-way/</link>
+      <pubDate>Sun, 21 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>/news/how-to-copy-files-from-android-phone-to-pc-in-an-easy-and-fast-way/</guid>
+      <description>First things first. I often need to copy substantial amount of photos from my phone. It can&amp;rsquo;t be done via Windows GUI without millions of mouse clicks or keystrokes. Here you will find a solution on how to do this in a proper way. The key tool for this will be [ADB], developer tools for Android.&#xA;Wishes: command line, batch, no file explorer, no mouse, no clickety-clack.&#xA;Sicking tired of all of these not-so-precise-instructions i&amp;rsquo;ve decided to make my own.</description>
+    </item>
+    <item>
+      <title>HOW TO REMOVE ANNOYING CONFIRMATION WINDOW WHEN COPYING FILES FROM PUTER TO CELLPHONE OVER DUMB MTP PROTOCOL</title>
+      <link>/news/how-to-remove-annoying-confirmation-window-when-copying-files-from-puter-to-cellphone-via-mtp/</link>
+      <pubDate>Thu, 23 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>/news/how-to-remove-annoying-confirmation-window-when-copying-files-from-puter-to-cellphone-via-mtp/</guid>
+      <description>Of course you run into situations when you would like to copy &amp;ldquo;non-standard&amp;rdquo; files to your Android smartphone and dumb MTP protocol showed up window like this one:&#xA;And this torture repeated after every new file type copied. Such imbecility can be removed by following command in admin console:&#xA;regsvr32 /u wpdshext.dll That&amp;rsquo;s all, limitation is gone.&#xA;Another hint, which potentially can help to overcome weird design of MTP protocol.</description>
+    </item>
+  </channel>
+</rss>

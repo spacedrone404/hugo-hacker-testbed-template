@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Services on Hugo Hacker Theme</title>
+    <link>/tags/services/</link>
+    <description>Recent content in Services on Hugo Hacker Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 08 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/services/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HOW TO FIX OUT OF SYNC TIME ON OLD WINDOWS 7 INSTALLATIONS</title>
+      <link>/news/how-to-fix-out-of-sync-time-on-old-windows-7-installations/</link>
+      <pubDate>Sun, 08 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>/news/how-to-fix-out-of-sync-time-on-old-windows-7-installations/</guid>
+      <description>A couple of weeks ago i run into problem related to out-of sync time clock. Tried almost all imaginable solutions, like time service restarting, checking that internet time-sync option is turned on and so on and so forth. Of course to no avail at all. How typical! My Windows 7 installation dates back to early 2019 and i&amp;rsquo;ve plethora of software installed, and more over system is heavily customized so plain reinstall of operating system is not an option in my case.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,70 @@
+{{ define "main" }}
+<main class="main list" role="main">
+	{{- with .Title }}
+	<header class="main__header">
+		<h1 class="main__title"> # {{ . }}</h1> <!-- header of the filtered lists {{ . }} -->
+	</header>
+	{{- end }}
+	{{- with .Content }}
+	<div class="content main__content clearfix">
+		{{ . }}
+
+	</div>
+	{{- end }}
+	{{- range .Paginator.Pages }}
+	{{- .Render "summary" }}
+	{{- end }}
+
+
+</main>
+
+{{ partial "pagination.html" . }}
+
+<br>
+
+<hr>
+
+<div style="text-align:left;"><b><a href="/"> ≡ BACK TO NEWS </a></b></div>
+<div style="text-align:left;"><b><a href="#top"> ↑ BACK 2 MENU </a></b></div>
+
+<button onclick="topFunction()" id="scrollTop" title="BACK 2 MENU">↑</button>
+
+<script>
+
+	window.topFunction = topFunction;
+
+	let lastScrollTop = 0;
+	let scrollTopBtn = document.getElementById("scrollTop");
+
+	window.onscroll = function () {
+		scrollFunction();
+	};
+	function scrollFunction() {
+		let currentScroll = window.scrollY || document.documentElement.scrollTop;
+		if (currentScroll > 512) {
+			if (!scrollTopBtn.classList.contains("show")) {
+				scrollTopBtn.classList.remove("hide");
+				scrollTopBtn.classList.add("show");
+			}
+		} else if (currentScroll < lastScrollTop) {
+			if (scrollTopBtn.classList.contains("show")) {
+				scrollTopBtn.classList.remove("show");
+				scrollTopBtn.classList.add("hide");
+			}
+		}
+		lastScrollTop = currentScroll <= 0 ? 0 : currentScroll;
+	}
+
+	function topFunction() {
+		document.body.scrollTop = 0;
+		document.documentElement.scrollTop = 0;
+	}
+
+
+</script>
+
+
+<script type="module" src="/js/lazy-load.js"></script>
+
+
+{{ end }}

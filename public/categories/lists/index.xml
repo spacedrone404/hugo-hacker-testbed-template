@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lists on Hugo Hacker Theme</title>
+    <link>/categories/lists/</link>
+    <description>Recent content in Lists on Hugo Hacker Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 09 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/categories/lists/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HOW TO TUNE THE DISPLAY OF YOUR SMARTPHONE TO AVOID ANNOYING PWM PROBLEMS</title>
+      <link>/news/how-to-tune-the-display-of-your-smartphone-to-avoid-annoying-pwm-problems/</link>
+      <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>/news/how-to-tune-the-display-of-your-smartphone-to-avoid-annoying-pwm-problems/</guid>
+      <description>In this note, I will describe all the settings you need to tweak to get a 100% flicker-free, eye-friendly result on your smartphone. However, some settings are quite extreme and you don&amp;rsquo;t need to apply all of them, such as the monochrome filter or setting extremely high warm values on the color temperature slider.&#xA;PWM flickering is a &amp;ldquo;feature&amp;rdquo; of most digital displays at relatively low brightness levels that can cause eye strain and headaches.</description>
+    </item>
+    <item>
+      <title>HOW TO COMPLETELY DISABLE TELEMETRY SERVICES WHICH DIAL BACK TO THIRD-PARTIES IN FIREFOX</title>
+      <link>/news/how-to-completely-disable-telemetry-services-which-dial-back-to-third-parties-in-firefox/</link>
+      <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>/news/how-to-completely-disable-telemetry-services-which-dial-back-to-third-parties-in-firefox/</guid>
+      <description>UPDATED ON: 2023-09-06 Some new parameters were added.&#xA;Note that by default all [Nightly versions] of Firefox are sending back telemetry to third-parties in extensive manner. So, to disable such malicious actions besides turning off telemetry settings via standard GUI options:&#xA;about:preferences#privacy You&amp;rsquo;ll need to use good old:&#xA;about:config To change to:&#xA;FALSE &amp;hellip;or create following parameters in software registry:&#xA;toolkit.telemetry.archive.enabled&#xD;toolkit.telemetry.enabled&#xD;toolkit.telemetry.unified&#xD;toolkit.telemetry.unifiedIsOptIn&#xD;toolkit.telemetry.bhrPing.enabled&#xD;toolkit.telemetry.firstShutdownPing.enabled&#xD;toolkit.telemetry.hybridContent.enabled&#xD;toolkit.telemetry.newProfilePing.enabled&#xD;toolkit.telemetry.reportingpolicy.firstRun toolkit.</description>
+    </item>
+    <item>
+      <title>HOW TO MINIMIZE LAPTOP POWER CONSUMPTION</title>
+      <link>/news/how-to-minimize-laptop-power-consumption/</link>
+      <pubDate>Thu, 29 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>/news/how-to-minimize-laptop-power-consumption/</guid>
+      <description>Say you need to run on a laptop battery vintage or simply non-demanding applications for an extremely long time. Here is a little breakdown of mandatory things to do:&#xA;turn off in BIOS unneeded devices like camera, sd-card reader, fingerprint scanner, gsm-modem, wifi, bt or whatever you are not using turn on power saving features like various C-power states turn off hyper-threading and hi-core count [if you have such ability] lower screen brightness to acceptable level check my [quick] and [comprehensive] optimization FAQs get rid of [unneeded services and bloat applications] Also you can use core parking utility [Park Control], but in this mini-guide i&amp;rsquo;ll show you how to set power related things up via internal Windows 7 tools.</description>
+    </item>
+    <item>
+      <title>HOW TO PLAY CLASSIC FALLOUT 2 TO GET THE MOST OUT OF IT IN 2023?</title>
+      <link>/news/how-to-play-classic-fallout-2-to-get-the-most-out-of-it-in-2023/</link>
+      <pubDate>Sat, 17 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>/news/how-to-play-classic-fallout-2-to-get-the-most-out-of-it-in-2023/</guid>
+      <description>So you want to do a deep dive into the best RPG game of all time and don&amp;rsquo;t know how do it in a right way in 2023? You&amp;rsquo;ve come to the right place, coz unlisted slacker knows precisely what you need to do in the first place.&#xA;Here is a breakdown list of what you need to do to run Fallout 2 buttery smooth:&#xA;grab original [Fallout 2] distribution from GOG [latest version 2.</description>
+    </item>
+    <item>
+      <title>HOW TO RUN OBS STUDIO V29 IN WINDOWS 7</title>
+      <link>/news/how-to-run-obs-studio-29-in-windows-7/</link>
+      <pubDate>Fri, 17 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>/news/how-to-run-obs-studio-29-in-windows-7/</guid>
+      <description>I&amp;rsquo;ll keep post updated if any changes happen.&#xA;Recently last officially supported version was [27.4.2]. But from now on we can use actual version of software.&#xA;Here is small instruction list on how to make things rollin&amp;rsquo; under mighty Windows 7:&#xA;Obtain hacked [QT 6.3.1 DLLs for Windows 7] ||| [Mirror] [QT6 is not officially supported] Download [CFF Explorer][direct link] for basic resource hackery Obviously grab latest zipped archive [OBS Studio 29.</description>
+    </item>
+    <item>
+      <title>FASTEST AMD-BASED CARDS FOR LEGACY WINDOWS 98/2000/XP/7</title>
+      <link>/news/fastest-amd-based-cards-for-legacy-windows-98-2000-xp-7/</link>
+      <pubDate>Sun, 26 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>/news/fastest-amd-based-cards-for-legacy-windows-98-2000-xp-7/</guid>
+      <description>Quick breakdown of the most powerful AMD-based cards for legacy operating systems.&#xA;[X850XT PE] ► WINDOWS 98 [official drivers]/ Omega drivers] [HD 3870 X 2] ► WINDOWS 2000 [official drivers] plus some INF tinkering, will review that one later on [HD 5970] ► WINDOWS 2000 [Blackwingcat hacks] [R9 270X] ► WINDOWS XP [official drivers] [6950XT] ► WINDOWS 7 [official drivers] ◄ currently rocking on that one under Windows 7 wing.</description>
+    </item>
+    <item>
+      <title>HOW TO REPAIR BROKEN WINDOWS 7</title>
+      <link>/news/how-to-repair-broken-windows-7/</link>
+      <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>/news/how-to-repair-broken-windows-7/</guid>
+      <description>To check system hard drive and fix errors:&#xA;chkdsk c: /f To check system hard drive, fix errors, locate and mark bad sectors:&#xA;chkdsk c: /r Very basic command to check integrity of system files:&#xA;sfc /scannow If sfc can&amp;rsquo;t help you try DISM.&#xA;Check system health for any corruption presence:&#xA;Dism /Online /Cleanup-Image /CheckHealth Check system health for store corruption presence:&#xA;Dism /Online /Cleanup-Image /ScanHealth Finally, repair command:</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Transformation on Hugo Hacker Theme</title>
+    <link>/tags/transformation/</link>
+    <description>Recent content in Transformation on Hugo Hacker Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 26 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/transformation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HOW TO BRING BACK CLASSIC SQUARE TABS IN RECENT FIREFOX</title>
+      <link>/news/how-to-bring-back-square-tabs-in-firefox/</link>
+      <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>/news/how-to-bring-back-square-tabs-in-firefox/</guid>
+      <description>Tired of round shaped chrome-like tabs?&#xA;These tweaks attempt to recreate the feel of Quantum with its squared tabs and menus, but in the Proton UI. As of FF91, the about:config option to disable proton has been deprecated, leaving CSS as the main way to revert the UI.&#xA;Want to bring back minimalistic strict lines and make things more serious?&#xA;[Firefox-Proton-Square] tweak will help ya.&#xA;INSTALLATION PROCESS&#xA;Enable userChrome.css support Go to about:config toolkit.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Storage on Hugo Hacker Theme</title>
+    <link>/tags/storage/</link>
+    <description>Recent content in Storage on Hugo Hacker Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 16 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/storage/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CAN SONY XPERIA XZ1 COMPACT AND NOKIA PUREVIEW 808 HANDLE 1TB SD CARD?</title>
+      <link>/news/can-sony-xperia-xz1-compact-and-nokia-pureview-808-handle-1tb-sd-card_/</link>
+      <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/news/can-sony-xperia-xz1-compact-and-nokia-pureview-808-handle-1tb-sd-card_/</guid>
+      <description>UPDATED ON: 2023-04-19&#xA;Most modern marketing smart-phones are mumbling about support of really large SD cards. But only on Hi-End models. I&amp;rsquo;m not even speaking about pathetic iphones, which are disabled in terms of external storage due to the greed of executive directors. In this note i will check old mastodonts like:&#xA;[Sony Xperia XZ1 Compact [2017]] [Nokia PureView 808 [2012]] for compatibility with such ENORMOUS storage device.&#xA;Sony XZ1 Compact handles such capacity without any problems.</description>
+    </item>
+    <item>
+      <title>HOW TO REMOVE ANNOYING CONFIRMATION WINDOW WHEN COPYING FILES FROM PUTER TO CELLPHONE OVER DUMB MTP PROTOCOL</title>
+      <link>/news/how-to-remove-annoying-confirmation-window-when-copying-files-from-puter-to-cellphone-via-mtp/</link>
+      <pubDate>Thu, 23 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>/news/how-to-remove-annoying-confirmation-window-when-copying-files-from-puter-to-cellphone-via-mtp/</guid>
+      <description>Of course you run into situations when you would like to copy &amp;ldquo;non-standard&amp;rdquo; files to your Android smartphone and dumb MTP protocol showed up window like this one:&#xA;And this torture repeated after every new file type copied. Such imbecility can be removed by following command in admin console:&#xA;regsvr32 /u wpdshext.dll That&amp;rsquo;s all, limitation is gone.&#xA;Another hint, which potentially can help to overcome weird design of MTP protocol.</description>
+    </item>
+  </channel>
+</rss>
