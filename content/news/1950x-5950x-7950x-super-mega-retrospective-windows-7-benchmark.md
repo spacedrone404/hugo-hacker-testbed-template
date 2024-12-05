@@ -1,7 +1,7 @@
 ---
 title: 1950X / 5950X / 7950X ▀ SUPER MEGA RETROSPECTIVE WINDOWS 7 BENCHMARK
 date: 2024-09-30
-thumbnail: "/img/gallery/1976.jpg"
+thumbnail: "img/gallery/2018.jpg"
 categories:	
 - "Hardware"
 - "Reviews"

@@ -1,7 +1,7 @@
 ---
 title: HOW TO FIX "UNABLE TO RENDER ERROR" 0x80131501 IN VEGAS PRO 21 
 date: 2023-11-27
-thumbnail: "/img/gallery/1965.jpg"
+thumbnail: "img/gallery/1965.jpg"
 categories:	
 - "Software"
 - "Technology"
