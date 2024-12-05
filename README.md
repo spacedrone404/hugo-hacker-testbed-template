@@ -1,6 +1,6 @@
 Website template based upon HUGO framework.
 
-Hacking testbed for testing things out.
+Hacking testbed for testing things out. Constant work in progress.
 
 Technology stack: Hugo/HTML/CSS/JS/Go.
 
