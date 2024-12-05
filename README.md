@@ -1,6 +1,7 @@
 Website template based upon HUGO framework.
+Hacking testbed for testing things out.
 
-Stack: Hugo/HTML/CSS/JS/Go.
+Technology stack: Hugo/HTML/CSS/JS/Go.
 
 <img src="https://raw.githubusercontent.com/gohugoio/gohugoioTheme/master/static/images/hugo-logo-wide.svg?sanitize=true" alt="Hugo" width="565">
 
