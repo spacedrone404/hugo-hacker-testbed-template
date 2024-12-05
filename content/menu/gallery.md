@@ -14,7 +14,7 @@ pager: false
 
 <p style="text-align:left;"><a href="#top">BACK 2 TOP ▲</a></p>
 
-## ► GALLERY 2
+<!-- ## ► GALLERY 2
 
 {{< foldergallery src="gal2" >}}
 
@@ -41,7 +41,7 @@ pager: false
 <br>
 <br>
 <br>
-<br>
+<br> -->
 
 <hr class="bottom-menu-hr">
 <div align="left"> 
